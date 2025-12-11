@@ -1,0 +1,74 @@
+{
+	"index": {
+		"title": "Dharmachakra",
+		"subtitle": "is about to start",
+		"welcome": "Welcome to the Dharmachakra program. The event will start soon. Please prepare for meditation and spiritual practice.",
+		"start": "Begin →"
+	},
+	"page01": {
+		"title": "Prabhat Samgiita",
+		"content": {
+			"p1": "Prabhat Samgiita are spiritual songs composed by Shrii Shrii Anandamurti. They carry deep spiritual meaning and aid in meditative practice.",
+			"p2": "These songs combine music, poetry, and philosophy, creating a unique path for spiritual development."
+		}
+	},
+	"page02": {
+		"title": "KIRTAN",
+		"subtitle": "(30 minutes)"
+	},
+	"page03": {
+		"title": "Samgacchhadham Mantra",
+		"mantra": "Samgacchhadhvam samvadadhvam\nSam vo manamsi janatam\nDeva bhagam yatha purve\nSanjnanana upasate",
+		"translation": "Translation:",
+		"meaning": "Move together! Let your words be united! May your minds be as one! Just as the ancient gods shared the abundance of the universe, may you also be united in wisdom and harmony."
+	},
+	"page05": {
+		"title": "MEDITATION",
+		"subtitle": "(30 minutes)"
+	},
+	"page06": {
+		"title": "Nityam Shuddham",
+		"subtitle": "Guru Brahma Mantra",
+		"mantra": "Nityam shuddham nirabhasam\nNirakaankam niramjanam\nNitya bodham chidananda\nGurum Brahma namamyaham",
+		"translation": "Translation:",
+		"meaning": "To the eternal, pure, formless, spotless Brahma, eternal knowledge, consciousness and bliss, to Guru Brahma I bow."
+	},
+	"page07": {
+		"title": "Guru Puja",
+		"subtitle": "Honoring the Guru",
+		"mantra": "Guru Brahma, Guru Vishnu\nGuru Devo Maheshvarah\nGuru Sakshat Param Brahma\nTasmai Shri Gurave Namah",
+		"translation": "Translation:",
+		"meaning": "Guru is Brahma (creator), Guru is Vishnu (preserver), Guru is God Maheshvara (destroyer). Guru truly is the supreme Brahma. To that revered Guru I bow."
+	},
+	"page08": {
+		"title": "Teaching of Shrii Shrii Anandamurti",
+		"quote": "\"Those who regularly perform sadhana twice daily will certainly attain liberation. They should follow the principles of yama and niyama according to their capacity.\"",
+		"author": "— Shrii Shrii Anandamurti"
+	},
+	"page09": {
+		"title": "Svadhyaya",
+		"subtitle": "Study of Spiritual Texts",
+		"content": {
+			"p1": "Svadhyaya (self-study) is the second niyama in the yoga system. It includes the study of spiritual literature, sacred texts, and reflection on their meaning.",
+			"p2": "Through svadhyaya, the practitioner deepens their understanding of spiritual principles and approaches the realization of their true nature. It is not just reading, but deep immersion in spiritual knowledge.",
+			"quote": "Knowledge liberates, ignorance binds"
+		}
+	},
+	"page10": {
+		"title": "Spiritual Discussion",
+		"content": {
+			"p1": "Spiritual discussion (satsang) is a gathering with spiritual seekers, where questions of spiritual development, philosophy, and practice are discussed.",
+			"p2": "Satsang literally means \"communion with truth\" or \"gathering of truth\". It is a time for sharing experiences, asking questions, and receiving spiritual guidance.",
+			"p3": "In an atmosphere of mutual support and understanding, participants strengthen their spiritual practice and are inspired for further growth."
+		}
+	},
+	"page11": {
+		"title": "Namaskar",
+		"content": {
+			"intro": "Namaskar",
+			"p1": "Namaskar is a traditional Indian greeting that means \"I bow to the divine in you\". It is an expression of respect and recognition of the spiritual essence in every being.",
+			"p2": "In the practice of yoga and meditation, namaskar serves as a reminder that beneath external differences, we are all united in our spiritual nature.",
+			"emoji": "🙏"
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"fullscreen": {
+		"enter": "⤢ Полноэкранный режим",
+		"exit": "⤢ Выйти из полноэкранного режима"
+	},
+	"navigation": {
+		"previous": "Назад",
+		"next": "Вперёд",
+		"home": "Главная",
+		"close": "Закрыть"
+	},
+	"landing": {
+		"title": "AM",
+		"selectLanguage": "Выберите язык",
+		"russian": "Русский",
+		"english": "English"
+	}
+}

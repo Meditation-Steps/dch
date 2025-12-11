@@ -1,0 +1,13 @@
+{
+	"title": "KIRTAN",
+	"subtitle": "(30 minutes)",
+	"controls": {
+		"start": "START",
+		"stop": "STOP",
+		"reset": "RESET"
+	},
+	"alert": {
+		"title": "⏰ Time's up!",
+		"message": "Meditation completed"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"fullscreen": {
+		"enter": "⤢ Fullscreen",
+		"exit": "⤢ Exit Fullscreen"
+	},
+	"navigation": {
+		"previous": "Previous",
+		"next": "Next",
+		"home": "Home",
+		"close": "Close"
+	},
+	"landing": {
+		"title": "AM",
+		"selectLanguage": "Select Language",
+		"russian": "Русский",
+		"english": "English"
+	}
+}
