@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Samgacchhadham Mantra</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Fullscreen</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" style="width: 150px" />
+				<img src="/public/images/img02.png" alt="Header" />
+				<h1 class="page-title">Samgacchhadham Mantra</h1>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.3em; line-height: 2; margin: 2rem 0">
+					<em>
+						Samgacchhadhvam samvadadhvam<br />
+						Sam vo manamsi janatam<br />
+						Deva bhagam yatha purve<br />
+						Sanjnanana upasate
+					</em>
+				</p>
+
+				<p><strong>Translation:</strong></p>
+				<p>
+					Move together! Let your words be united! May your minds be as one!
+					Just as the ancient gods shared the abundance of the universe,
+					may you also be united in wisdom and harmony.
+				</p>
+				<img src="/public/images/img03.png" alt="Footer" style="margin-top: 2rem" />
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggleEn } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigationEn } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggleEn();
+			initNavigationEn({
+				prev: "en/page02.html",
+				next: "en/page05.html",
+				home: "en/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

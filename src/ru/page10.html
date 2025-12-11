@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Духовная беседа</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<h1 class="page-title">Духовная беседа</h1>
+			</header>
+
+			<main class="page-content">
+				<p>
+					Духовная беседа (сатсанга) — это встреча с духовными искателями,
+					где обсуждаются вопросы духовного развития, философии и практики.
+				</p>
+
+				<p>
+					Сатсанга дословно означает "общение с истиной" или "собрание истины".
+					Это время для обмена опытом, задавания вопросов и получения
+					духовного наставления.
+				</p>
+
+				<p>
+					В атмосфере взаимной поддержки и понимания участники укрепляют
+					свою духовную практику и вдохновляются на дальнейший рост.
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				prev: "ru/page09.html",
+				next: "ru/page11.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

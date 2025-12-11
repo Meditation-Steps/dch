@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Meditation</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+		<link rel="stylesheet" href="/src/styles/glassmorphism.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Fullscreen</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<h1 class="page-title">MEDITATION</h1>
+				<p class="page-subtitle">(30 minutes)</p>
+			</header>
+
+			<main class="timer-container">
+				<div id="timer-display" class="timer-display">30:00</div>
+
+				<div class="progress-bar-container">
+					<div id="progress-bar" class="progress-bar"></div>
+				</div>
+
+				<div class="timer-controls">
+					<button id="start-btn" class="timer-button start">START</button>
+					<button id="stop-btn" class="timer-button stop" disabled>STOP</button>
+					<button id="reset-btn" class="timer-button reset">RESET</button>
+				</div>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggleEn } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigationEn } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+			import { MeditationTimerEn } from "/src/lib/components/MeditationTimer.js";
+
+			initLanguagePicker();
+			initFullscreenToggleEn();
+			initNavigationEn({
+				prev: "en/page03.html",
+				next: "en/page06.html",
+				home: "en/index.html",
+			});
+			initScrollNavigation();
+
+			new MeditationTimerEn(30);
+		</script>
+	</body>
+</html>

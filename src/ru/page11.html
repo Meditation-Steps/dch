@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Намаскар</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" style="width: 150px" />
+				<h1 class="page-title">Намаскар</h1>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.5em; margin: 3rem 0">
+					<strong>Намаскар</strong>
+				</p>
+
+				<p>
+					Намаскар — это традиционное индийское приветствие, которое означает
+					"я склоняюсь перед божественным в тебе". Это выражение уважения и признания
+					духовной сущности в каждом существе.
+				</p>
+
+				<p>
+					В практике йоги и медитации намаскар служит напоминанием о том,
+					что за внешними различиями все мы едины в нашей духовной природе.
+				</p>
+
+				<p style="text-align: center; font-size: 1.3em; margin: 3rem 0">
+					<em>🙏</em>
+				</p>
+			</main>
+
+			<a href="index.html" class="close-button">Закрыть</a>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				prev: "ru/page10.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

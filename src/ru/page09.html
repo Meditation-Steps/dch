@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Свадхьяя</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<h1 class="page-title">Свадхьяя</h1>
+				<p class="page-subtitle">Изучение духовных текстов</p>
+			</header>
+
+			<main class="page-content">
+				<p>
+					Свадхьяя (самообразование) — это вторая нияма в системе йоги.
+					Она включает в себя изучение духовной литературы, священных текстов
+					и размышление над их значением.
+				</p>
+
+				<p>
+					Через свадхьяю практикующий углубляет свое понимание духовных принципов
+					и приближается к осознанию своей истинной природы.
+					Это не просто чтение, но глубокое погружение в духовное знание.
+				</p>
+
+				<p style="text-align: center; margin-top: 3rem; font-size: 1.1em">
+					<em>Знание освобождает, невежество связывает</em>
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				prev: "ru/page08.html",
+				next: "ru/page10.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Nityam Shuddham</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Fullscreen</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<h1 class="page-title">Nityam Shuddham</h1>
+				<p class="page-subtitle">Guru Brahma Mantra</p>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.3em; line-height: 2; margin: 2rem 0">
+					<em>
+						Nityam shuddham nirabhasam<br />
+						Nirakaankam niramjanam<br />
+						Nitya bodham chidananda<br />
+						Gurum Brahma namamyaham
+					</em>
+				</p>
+
+				<p><strong>Translation:</strong></p>
+				<p>
+					To the eternal, pure, formless, spotless Brahma,
+					eternal knowledge, consciousness and bliss, to Guru Brahma I bow.
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggleEn } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigationEn } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggleEn();
+			initNavigationEn({
+				prev: "en/page05.html",
+				next: "en/page07.html",
+				home: "en/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

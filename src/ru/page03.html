@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Мантра Самгаччхадхвам</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" style="width: 150px" />
+				<img src="/public/images/img02.png" alt="Header" />
+				<h1 class="page-title">Мантра "Самгаччхадхвам"</h1>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.3em; line-height: 2; margin: 2rem 0">
+					<em>
+						Самгаччхадхвам самвададхвам<br />
+						Сам во манамси джанатам<br />
+						Дева бхагам ятха пурве<br />
+						Санджананa упасате
+					</em>
+				</p>
+
+				<p><strong>Перевод:</strong></p>
+				<p>
+					Двигайтесь вместе! Пусть ваши слова будут едины! Пусть ваши умы будут как один!
+					Подобно тому, как древние боги разделяли изобилие вселенной,
+					пусть и вы будете едины в мудрости и гармонии.
+				</p>
+				<img src="/public/images/img03.png" alt="Footer" style="margin-top: 2rem" />
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				prev: "ru/page02.html",
+				next: "ru/page05.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

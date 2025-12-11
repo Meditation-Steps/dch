@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Prabhat Samgiita</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Fullscreen</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img02.png" alt="Header" />
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" style="width: 150px" />
+				<h1 class="page-title">Prabhat Samgiita</h1>
+			</header>
+
+			<main class="page-content">
+				<p>
+					Prabhat Samgiita are spiritual songs composed by Shrii Shrii Anandamurti.
+					They carry deep spiritual meaning and aid in meditative practice.
+				</p>
+				<p>
+					These songs combine music, poetry, and philosophy, creating
+					a unique path for spiritual development.
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggleEn } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigationEn } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggleEn();
+			initNavigationEn({
+				prev: "en/index.html",
+				next: "en/page02.html",
+				home: "en/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

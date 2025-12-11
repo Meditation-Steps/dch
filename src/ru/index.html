@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Дхармачакра</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" />
+				<h1 class="page-title">Дхармачакра</h1>
+				<p class="page-subtitle">скоро начнется</p>
+			</header>
+
+			<main class="page-content">
+				<p>
+					Добро пожаловать на программу Дхармачакра. Мероприятие скоро начнется.
+					Пожалуйста, подготовьтесь к медитации и духовной практике.
+				</p>
+			</main>
+
+			<a href="page01.html" class="close-button">Начать →</a>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				next: "ru/page01.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

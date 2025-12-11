@@ -1,0 +1,186 @@
+/* Timer container */
+.timer-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 2rem;
+	padding: 3rem;
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+/* Timer display */
+.timer-display {
+	font-size: 6rem;
+	font-weight: 300;
+	color: var(--primary-color);
+	font-variant-numeric: tabular-nums;
+	letter-spacing: 0.1em;
+}
+
+/* Progress bar container */
+.progress-bar-container {
+	position: relative;
+	width: 100%;
+	max-width: 400px;
+	height: 300px;
+	background: rgba(226, 232, 240, 0.3);
+	border-radius: 16px;
+	overflow: hidden;
+	border: 2px solid var(--border-color);
+}
+
+/* Progress bar with glassmorphic effect */
+.progress-bar {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 0%;
+	background: linear-gradient(
+		180deg,
+		rgba(102, 126, 234, 0.3) 0%,
+		rgba(102, 126, 234, 0.5) 100%
+	);
+	backdrop-filter: blur(5px) saturate(250%) contrast(140%);
+	-webkit-backdrop-filter: blur(5px) saturate(250%) contrast(140%);
+	border-radius: 16px 16px 0 0;
+	transition: height 0.3s ease-out;
+}
+
+/* Timer controls */
+.timer-controls {
+	display: flex;
+	gap: 1rem;
+	margin-top: 2rem;
+}
+
+.timer-button {
+	padding: 1rem 2.5rem;
+	font-size: 1.2rem;
+	border: 2px solid var(--border-color);
+	background: white;
+	color: var(--text-color);
+	cursor: pointer;
+	border-radius: 10px;
+	transition: all 0.3s ease;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+
+.timer-button:hover:not(:disabled) {
+	border-color: var(--accent);
+	color: var(--accent);
+	transform: translateY(-2px);
+	box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+}
+
+.timer-button:disabled {
+	opacity: 0.5;
+	cursor: not-allowed;
+}
+
+.timer-button.start {
+	background: var(--accent);
+	color: white;
+	border-color: var(--accent);
+}
+
+.timer-button.start:hover:not(:disabled) {
+	background: #5568d3;
+	border-color: #5568d3;
+	color: white;
+}
+
+.timer-button.stop {
+	background: #fc8181;
+	color: white;
+	border-color: #fc8181;
+}
+
+.timer-button.stop:hover:not(:disabled) {
+	background: #f56565;
+	border-color: #f56565;
+	color: white;
+}
+
+.timer-button.reset {
+	background: #68d391;
+	color: white;
+	border-color: #68d391;
+}
+
+.timer-button.reset:hover:not(:disabled) {
+	background: #48bb78;
+	border-color: #48bb78;
+	color: white;
+}
+
+/* Visual alert for timer completion */
+.timer-alert {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background: rgba(255, 255, 255, 0.98);
+	padding: 3rem;
+	border-radius: 16px;
+	box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+	z-index: 2000;
+	text-align: center;
+	animation: alertPulse 1s ease-in-out infinite;
+}
+
+.timer-alert h2 {
+	font-size: 2.5rem;
+	color: var(--accent);
+	margin-bottom: 1rem;
+}
+
+.timer-alert button {
+	padding: 1rem 3rem;
+	font-size: 1.2rem;
+	background: var(--accent);
+	color: white;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: all 0.3s ease;
+}
+
+.timer-alert button:hover {
+	background: #5568d3;
+	transform: scale(1.05);
+}
+
+@keyframes alertPulse {
+	0%,
+	100% {
+		transform: translate(-50%, -50%) scale(1);
+	}
+	50% {
+		transform: translate(-50%, -50%) scale(1.02);
+	}
+}
+
+/* Responsive timer design */
+@media (max-width: 768px) {
+	.timer-display {
+		font-size: 4rem;
+	}
+
+	.progress-bar-container {
+		height: 200px;
+	}
+
+	.timer-controls {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.timer-button {
+		padding: 0.75rem 1.5rem;
+		font-size: 1rem;
+	}
+}

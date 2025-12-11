@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Прабхат Самгиты</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img02.png" alt="Header" />
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" style="width: 150px" />
+				<h1 class="page-title">Прабхат Самгиты</h1>
+			</header>
+
+			<main class="page-content">
+				<p>
+					Прабхат Самгиты - это духовные песни, написанные Шри Шри Анандамурти.
+					Они несут в себе глубокий духовный смысл и помогают в медитативной практике.
+				</p>
+				<p>
+					Эти песни объединяют в себе музыку, поэзию и философию, создавая
+					уникальный путь духовного развития.
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				prev: "ru/index.html",
+				next: "ru/page02.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

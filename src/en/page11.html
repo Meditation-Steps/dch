@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Namaskar</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Fullscreen</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<img src="/public/images/img_01.jpg" alt="Dharma Wheel" style="width: 150px" />
+				<h1 class="page-title">Namaskar</h1>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.5em; margin: 3rem 0">
+					<strong>Namaskar</strong>
+				</p>
+
+				<p>
+					Namaskar is a traditional Indian greeting that means
+					"I bow to the divine in you". It is an expression of respect and recognition
+					of the spiritual essence in every being.
+				</p>
+
+				<p>
+					In the practice of yoga and meditation, namaskar serves as a reminder that
+					beneath external differences, we are all united in our spiritual nature.
+				</p>
+
+				<p style="text-align: center; font-size: 1.3em; margin: 3rem 0">
+					<em>🙏</em>
+				</p>
+			</main>
+
+			<a href="index.html" class="close-button">Close</a>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggleEn } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigationEn } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggleEn();
+			initNavigationEn({
+				prev: "en/page10.html",
+				home: "en/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Guru Puja</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Fullscreen</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<h1 class="page-title">Guru Puja</h1>
+				<p class="page-subtitle">Honoring the Guru</p>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.3em; line-height: 2; margin: 2rem 0">
+					<em>
+						Guru Brahma, Guru Vishnu<br />
+						Guru Devo Maheshvarah<br />
+						Guru Sakshat Param Brahma<br />
+						Tasmai Shri Gurave Namah
+					</em>
+				</p>
+
+				<p><strong>Translation:</strong></p>
+				<p>
+					Guru is Brahma (creator), Guru is Vishnu (preserver),
+					Guru is God Maheshvara (destroyer). Guru truly is the supreme Brahma.
+					To that revered Guru I bow.
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggleEn } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigationEn } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggleEn();
+			initNavigationEn({
+				prev: "en/page06.html",
+				next: "en/page08.html",
+				home: "en/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>

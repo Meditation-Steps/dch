@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Nityam Shuddham</title>
+		<link rel="stylesheet" href="/src/styles/global.css" />
+	</head>
+	<body>
+		<button id="fullscreen-toggle" class="fullscreen-toggle">⤢ Полноэкранный режим</button>
+		<div id="language-picker" class="language-picker"></div>
+
+		<div class="page-container">
+			<header class="page-header">
+				<h1 class="page-title">Nityam Shuddham</h1>
+				<p class="page-subtitle">Мантра Гуру Брахма</p>
+			</header>
+
+			<main class="page-content">
+				<p style="text-align: center; font-size: 1.3em; line-height: 2; margin: 2rem 0">
+					<em>
+						Нитьям шуддхам нирабхасам<br />
+						Нираканкам нирамджанам<br />
+						Нитья бодхам чидананда<br />
+						Гурум Брахма намамьяхам
+					</em>
+				</p>
+
+				<p><strong>Перевод:</strong></p>
+				<p>
+					Вечному, чистому, бесформенному, безупречному Брахме,
+					вечному знанию, сознанию и блаженству, Гуру Брахме я склоняюсь.
+				</p>
+			</main>
+		</div>
+
+		<div id="navigation"></div>
+
+		<script type="module">
+			import { initLanguagePicker } from "/src/lib/components/LanguagePicker.js";
+			import { initFullscreenToggle } from "/src/lib/components/FullscreenToggle.js";
+			import { initNavigation } from "/src/lib/components/Navigation.js";
+			import { initScrollNavigation } from "/src/lib/components/ScrollNavigation.js";
+
+			initLanguagePicker();
+			initFullscreenToggle();
+			initNavigation({
+				prev: "ru/page05.html",
+				next: "ru/page07.html",
+				home: "ru/index.html",
+			});
+			initScrollNavigation();
+		</script>
+	</body>
+</html>
