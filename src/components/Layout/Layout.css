@@ -1,36 +1,34 @@
 /* Full-page background styling */
 .layout-wrapper {
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	background-image: url('/dch/images/background.jpg');
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
-	overflow: auto;
-	margin: 0;
-	padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("/dch/images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow: auto;
+  margin: 0;
+  padding: 0;
 }
 
 /* Semi-transparent black overlay */
 .layout-wrapper::before {
-	content: '';
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100vw;
-	height: 100vh;
-	background-color: rgba(0, 0, 0, 0.4);
-	z-index: 0;
-	pointer-events: none;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  pointer-events: none;
 }
 
 /* Content wrapper to position above overlay */
 .layout-content {
-	position: relative;
-	z-index: 1;
-	width: 100%;
-	min-height: 100%;
+  position: relative;
+  width: 100%;
+  min-height: 100%;
 }

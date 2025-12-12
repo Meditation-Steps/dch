@@ -29,7 +29,13 @@ export default function Mantra(props: { headingKey: string; linesKey: string; me
           {props.meaningKey && (
             <>
               <br />
-              <p>{t(props.meaningKey)}</p>
+              <p
+                style={{
+                  whiteSpace: "pre-line",
+                }}
+              >
+                {t(props.meaningKey)}
+              </p>
             </>
           )}
         </main>

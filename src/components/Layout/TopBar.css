@@ -98,61 +98,61 @@
 
 /* Language Picker Overlay */
 .language-picker-wrapper {
-	position: relative;
+  position: relative;
 }
 
 .language-overlay {
-	position: absolute;
-	top: 100%;
-	right: 0;
-	display: flex;
-	flex-direction: column;
-	gap: 0;
-	pointer-events: auto;
-	opacity: 0;
-	animation: fadeIn 0.3s ease-in-out forwards;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  pointer-events: auto;
+  opacity: 0;
+  animation: fadeIn 0.3s ease-in-out forwards;
 }
 
 .language-overlay.fade-out {
-	animation: fadeOut 0.3s ease-in-out forwards;
+  animation: fadeOut 0.3s ease-in-out forwards;
 }
 
 @keyframes fadeIn {
-	from {
-		opacity: 0;
-	}
-	to {
-		opacity: 1;
-	}
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes fadeOut {
-	to {
-		opacity: 0;
-	}
+  to {
+    opacity: 0;
+  }
 }
 
 .language-option {
-	padding: 0.25rem 0.5rem;
-	background: transparent;
-	border: none;
-	color: black;
-	cursor: pointer;
-	transition: all 0.3s ease;
-	font-size: 0.9rem;
-	text-align: center;
-	opacity: 0.3;
+  padding: 0.25rem 0.5rem;
+  background: transparent;
+  border: none;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  text-align: center;
+  opacity: 0.3;
 }
 
 .language-option:hover {
-	opacity: 1;
+  opacity: 1;
 }
 
 .language-option.active {
-	opacity: 1;
+  opacity: 1;
 }
 
 .language-option:focus,
 .language-option:focus-visible {
-	outline: none;
+  outline: none;
 }

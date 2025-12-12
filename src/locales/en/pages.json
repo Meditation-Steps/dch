@@ -1,72 +1,62 @@
 {
-	"index": {
-		"title": "Dharmachakra",
-		"subtitle": "is about to start",
-		"content": {
-			"p1": "Please, each DC participant,\ndon't forget to press the button",
-			"button": "'Register and get link'",
-			"p2": "in your Telegram app in the bot\n(which sends the link to DC)\nto register\nyour personal participation."
-		}
-	},
-	"page01": {
-		"title": "Prabhat Samgiita",
-		"content": {
-			"p1": "Prabhat Samgiita are spiritual songs composed by Shrii Shrii Anandamurti. They carry deep spiritual meaning and aid in meditative practice.",
-			"p2": "These songs combine music, poetry, and philosophy, creating a unique path for spiritual development."
-		}
-	},
-	"page02": {
-		"title": "KIRTAN",
-		"subtitle": "(30 minutes)"
-	},
-	"page03": {
-		"title": "Samgacchhadham Mantra",
-		"mantra": "Samgacchhadhvam samvadadhvam\nSam vo manamsi janatam\nDeva bhagam yatha purve\nSanjnanana upasate",
-		"translation": "Translation:",
-		"meaning": "Move together! Let your words be united! May your minds be as one! Just as the ancient gods shared the abundance of the universe, may you also be united in wisdom and harmony."
-	},
-	"page05": {
-		"title": "MEDITATION",
-		"subtitle": "(30 minutes)"
-	},
-	"page06": {
-		"title": "Nityam Shuddham Mantra",
-		"mantra": "NITYAM SHUDDHAM NIRABHĀSAM\nNIRĀKĀRAM NIRAÑJANAM\nNITYABODHAM CIDĀNANDAM\nGURUBRAHMA NAMĀMYAHAM",
-		"meaning": "I salute the eternal, pure,\nincomprehensible, formless,\nunstained, all-knowing,\nblissful Brahma in the form of Guru."
-	},
-	"page07": {
-		"title": "Guru Puja",
-		"mantra": "Akhanda mandalakaram vyaptam yena characaram\nTatpadam darshitam yena tasmai shri gurave namah\nAjnana timirāndhasya jnānānjana shalākayā\nChakṣurunmīlitam yena tasmai shri gurave namah\nGurur brahma gurur vishnu gurur devo maheshvarah\nGurureva parama brahma tasmai shri gurave namah\n\n\nTAVA DRAVYAM JAGATGURO TUBHYAMEVA SAMARPAYE",
-		"meaning": "I salute the supreme Guru who pervades this entire moving and unmoving spherical universe.\nI salute the supreme Guru who dispels the darkness and opens the eyes of knowledge with the balm of spirituality.\nGuru is the creator. Guru is the preserver. Guru is the destroyer. Guru is verily the supreme Brahma.\nI salute this supreme Guru!\n\n\nO Guru of the Universe, all that You have given me, I return to You."
-	},
-	"page08": {
-		"title": "Supreme Command",
-		"mantra": "\"In the mind of those who perform sadhana regularly twice a day, at the time of death, a thought\nof Parama Purusha will surely arise – they will certainly attain liberation.\nTherefore, every Ananda Margi should perform sadhana twice a day – this is the command of Parama Purusha.\n\nWithout observing yama and niyama, sadhana is impossible,\ntherefore it is necessary to strictly adhere to these principles.\nNot following this command means subjecting oneself\nto the torments of animal life for tens of millions of years.\nSo that no one experiences such suffering,\nand all may have the opportunity to enjoy\neternal peace under the loving shelter of Parama Purusha,\nevery Ananda Margi should strive to bring all onto the path of bliss.\n\nThis is an integral part of sadhana - to lead others on the path of righteousness.\"\n\n\nShrii Shrii Anandamurti"
-	},
-	"page09": {
-		"title": "Svadhyaya",
-		"subtitle": "Study of Spiritual Texts",
-		"content": {
-			"p1": "Svadhyaya (self-study) is the second niyama in the yoga system. It includes the study of spiritual literature, sacred texts, and reflection on their meaning.",
-			"p2": "Through svadhyaya, the practitioner deepens their understanding of spiritual principles and approaches the realization of their true nature. It is not just reading, but deep immersion in spiritual knowledge.",
-			"quote": "Knowledge liberates, ignorance binds"
-		}
-	},
-	"page10": {
-		"title": "Spiritual Discussion",
-		"content": {
-			"p1": "Spiritual discussion (satsang) is a gathering with spiritual seekers, where questions of spiritual development, philosophy, and practice are discussed.",
-			"p2": "Satsang literally means \"communion with truth\" or \"gathering of truth\". It is a time for sharing experiences, asking questions, and receiving spiritual guidance.",
-			"p3": "In an atmosphere of mutual support and understanding, participants strengthen their spiritual practice and are inspired for further growth."
-		}
-	},
-	"page11": {
-		"title": "Namaskar",
-		"content": {
-			"intro": "Namaskar",
-			"p1": "Namaskar is a traditional Indian greeting that means \"I bow to the divine in you\". It is an expression of respect and recognition of the spiritual essence in every being.",
-			"p2": "In the practice of yoga and meditation, namaskar serves as a reminder that beneath external differences, we are all united in our spiritual nature.",
-			"emoji": "🙏"
-		}
-	}
+  "index": {
+    "title": "Dharmachakra",
+    "subtitle": "is about to start",
+    "content": {
+      "p1": "Please, each DC participant,\ndon't forget to press the button",
+      "button": "'Register and get link'",
+      "p2": "in your Telegram app in the bot\n(which sends the link to DC)\nto register\nyour personal participation."
+    }
+  },
+  "page01": {
+    "title": "Prabhat Samgiita",
+    "content": {
+      "p1": "Prabhat Samgiita are spiritual songs composed by Shrii Shrii Anandamurti. They carry deep spiritual meaning and aid in meditative practice.",
+      "p2": "These songs combine music, poetry, and philosophy, creating a unique path for spiritual development."
+    }
+  },
+  "page02": {
+    "title": "Kiirtan"
+  },
+  "page03": {
+    "title": "Mantra \"Saḿgacchadhvaḿ\"",
+    "mantra": "Saḿgacchadhvaḿ saḿvadadhvaḿ\nsaḿ vo manáḿsi jánatám;\nDevábhágaḿ yathápúrve\nsaḿjánáná upásate.\nSamánii va ákútih samáná hrdayánivah;\nsamáná hrdayánivah;\nSamánamastu vo mano\nyathá vah susahásati.",
+    "translation": "Translation:",
+    "meaning": "Let us move together, let us radiate the same thought-wave,\nlet us come to know our minds together,\nLet us share our wealth without differentiation, like sages of the past,\nso that all may enjoy the universe.\nLet our aspirations be united, let our hearts be inseparable,\nLet our minds be as one mind, so that we live in harmony and become one with the Supreme."
+  },
+  "page05": {
+    "title": "Meditation"
+  },
+  "page06": {
+    "title": "Mantra \"Nityaḿ shuddhaḿ\"",
+    "mantra": "Nityaḿ shuddhaḿ nirábhásaḿ\nnirákáraḿ niraiṋjanam;\nNityabodhaḿ cidánandaḿ\nGurubrahma namámyaham.",
+    "meaning": "I offer my salutation to Brahma, in the form of the Guru,\nwho is eternal, ever-pure, without replica, formless,\nabsolutely unblemished, and ever-ensconced in the deep,\nintuitional stance and cognitive bliss."
+  },
+  "page07": {
+    "title": "Guru Puja",
+    "mantra": "Akhańd́amańd́alákáraḿ vyáptaḿ yena carácaram;\nTatpadaḿ darshitaḿ yena tasmae Shrii Gurave namah.\nAjiṋána timirándhasya jiṋánáiṋjana shalákayá;\nCakśurunmiilitaḿ yena tasmae Shrii Gurave namah.\nGurur Brahmá Gurur Viśńu Gurur Devo Maheshvarah;\nGurureva Paramabrahma tasmae Shrii Gurave namah\n\nTava dravyaḿ Jagatguro Tubhyameva samarpaye.",
+    "meaning": "Salutations to that respected Guru\nhaving the form of an unbroken, undivided circle,\nby whom the movable and immovable worlds are pervaded,\nby whom the supreme stance of salvation is shown. Salutations to that respected Guru\nby whom the eyes of one blinded by the darkness of ignorance are opened with a stick that applies the ointment of spiritual knowledge.\nThe Guru as Supreme Progenitor, the Guru as Guardian, the Guru as the one who has the withdrawing power,\nthe Guru who alone is the Supreme Subject – salutations to that respected Guru!\n\nEverything of mine, along with my mind, is offered at Your altar.\nPlease oblige and accept it."
+  },
+  "page08": {
+    "title": "Supreme Command",
+    "mantra": "\"Those who perform sadhana twice a day regularly – the thought of Parama Purusa will certainly arise in their minds at time of death;\ntheir liberation is a sure guarantee.\nTherefore every Ananda Margi will have to perform sadhana twice a day invariably; verily is this the command of the Lord.\n\nWithout Yama and Niyama, sadhana is an impossibility;\nhence the Lord's command is also to follow Yama and Niyama.\nDisobedience to this command is nothing but to throw oneself\ninto the tortures of animal life for crores of years.\nThat no one should undergo torments such as these,\nthat everyone might be enjoy\nthe eternal blessedness under the loving shelter of the Lord,\n it is the bounden duty of every Ananda Margi to endeavor to bring all to the path of bliss.\n\nVerily is this a part and parcel of sadhana, to lead others along the path of righteousness.\"\n\n\nShrii Shrii Anandamurti"
+  },
+  "page09": {
+    "title": "Svadhyaya",
+    "subtitle": "Study of Spiritual Texts",
+    "content": {
+      "p1": "Svadhyaya (self-study) is the second niyama in the yoga system. It includes the study of spiritual literature, sacred texts, and reflection on their meaning.",
+      "p2": "Through svadhyaya, the practitioner deepens their understanding of spiritual principles and approaches the realization of their true nature. It is not just reading, but deep immersion in spiritual knowledge.",
+      "quote": "Knowledge liberates, ignorance binds"
+    }
+  },
+  "page10": {
+    "title": "Pravacan (spiritual discourse)"
+  },
+  "page11": {
+    "title": "Namaskar",
+    "content": {
+      "intro": "Namaskar"
+    }
+  }
 }

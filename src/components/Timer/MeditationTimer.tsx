@@ -1,24 +1,22 @@
 import { useCallback, useEffect, useState } from "react";
 import { useTimer } from "../../hooks/useTimer";
 import { playNotificationSound } from "../../utils/audio";
-import TimerAlert from "./TimerAlert";
 import TimerControls from "./TimerControls";
 import TimerDisplay from "./TimerDisplay";
+import TimerOverlay from "./TimerOverlay";
 
 interface MeditationTimerProps {
   durationMinutes?: number;
 }
 
 export default function MeditationTimer({ durationMinutes = 30 }: MeditationTimerProps) {
-  const [showAlert, setShowAlert] = useState(false);
   const [showControls, setShowControls] = useState(true);
 
   const handleComplete = useCallback(() => {
     playNotificationSound();
-    setShowAlert(true);
   }, []);
 
-  const { remainingTime, isRunning, start, stop, reset } = useTimer({
+  const { remainingTime, isRunning, progress, start, stop, reset } = useTimer({
     durationMinutes,
     onComplete: handleComplete,
   });
@@ -26,7 +24,7 @@ export default function MeditationTimer({ durationMinutes = 30 }: MeditationTime
   useEffect(() => {
     let timeoutId: NodeJS.Timeout;
 
-    const handleMouseMove = () => {
+    const handleUserActivity = () => {
       setShowControls(true);
 
       clearTimeout(timeoutId);
@@ -36,7 +34,8 @@ export default function MeditationTimer({ durationMinutes = 30 }: MeditationTime
       }, 3000);
     };
 
-    window.addEventListener("mousemove", handleMouseMove);
+    window.addEventListener("mousemove", handleUserActivity);
+    window.addEventListener("click", handleUserActivity);
 
     // Initial timeout
     timeoutId = setTimeout(() => {
@@ -44,13 +43,16 @@ export default function MeditationTimer({ durationMinutes = 30 }: MeditationTime
     }, 3000);
 
     return () => {
-      window.removeEventListener("mousemove", handleMouseMove);
+      window.removeEventListener("mousemove", handleUserActivity);
+      window.removeEventListener("click", handleUserActivity);
       clearTimeout(timeoutId);
     };
   }, []);
 
   return (
     <>
+      <TimerOverlay progress={progress} />
+
       <footer
         className="timer-footer"
         style={{
@@ -72,8 +74,6 @@ export default function MeditationTimer({ durationMinutes = 30 }: MeditationTime
           <TimerControls isRunning={isRunning} onStart={start} onStop={stop} onReset={reset} />
         </div>
       </footer>
-
-      <TimerAlert isVisible={showAlert} onClose={() => setShowAlert(false)} />
     </>
   );
 }

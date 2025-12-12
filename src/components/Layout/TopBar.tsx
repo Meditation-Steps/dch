@@ -22,9 +22,9 @@ export default function TopBar() {
 	// Default to index if no home specified
 	const home = config.home || "";
 
-	// Handle mouse movement to show/hide top bar
+	// Handle user activity to show/hide top bar
 	useEffect(() => {
-		const handleMouseMove = () => {
+		const handleUserActivity = () => {
 			// Show the top bar
 			setIsVisible(true);
 
@@ -39,8 +39,9 @@ export default function TopBar() {
 			}, 3000);
 		};
 
-		// Add event listener
-		document.addEventListener("mousemove", handleMouseMove);
+		// Add event listeners
+		document.addEventListener("mousemove", handleUserActivity);
+		document.addEventListener("click", handleUserActivity);
 
 		// Initial timeout
 		hideTimeoutRef.current = setTimeout(() => {
@@ -49,7 +50,8 @@ export default function TopBar() {
 
 		// Cleanup
 		return () => {
-			document.removeEventListener("mousemove", handleMouseMove);
+			document.removeEventListener("mousemove", handleUserActivity);
+			document.removeEventListener("click", handleUserActivity);
 			if (hideTimeoutRef.current) {
 				clearTimeout(hideTimeoutRef.current);
 			}

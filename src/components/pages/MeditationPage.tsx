@@ -13,7 +13,7 @@ export default function MeditationPage() {
   useEffect(() => {
     let cursorTimeoutId: NodeJS.Timeout;
 
-    const handleMouseMove = () => {
+    const handleUserActivity = () => {
       setHideCursor(false);
 
       clearTimeout(cursorTimeoutId);
@@ -23,7 +23,8 @@ export default function MeditationPage() {
       }, 3000);
     };
 
-    window.addEventListener("mousemove", handleMouseMove);
+    window.addEventListener("mousemove", handleUserActivity);
+    window.addEventListener("click", handleUserActivity);
 
     // Initial timeout
     cursorTimeoutId = setTimeout(() => {
@@ -31,7 +32,8 @@ export default function MeditationPage() {
     }, 3000);
 
     return () => {
-      window.removeEventListener("mousemove", handleMouseMove);
+      window.removeEventListener("mousemove", handleUserActivity);
+      window.removeEventListener("click", handleUserActivity);
       clearTimeout(cursorTimeoutId);
     };
   }, []);

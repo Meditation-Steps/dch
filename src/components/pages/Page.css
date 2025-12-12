@@ -15,13 +15,13 @@
 .page-header {
   text-align: center;
   width: 100%;
+  margin-bottom: 1rem;
 }
 
 .page-title {
   font-size: 2rem;
   font-weight: 600;
   color: #ffffff;
-  margin-bottom: 1rem;
 }
 
 .page-subtitle {
