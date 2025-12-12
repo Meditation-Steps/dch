@@ -2,8 +2,8 @@ import React from "react";
 import { usePageNavigation } from "../Layout/Navigation";
 import MeditationTimer from "../Timer/MeditationTimer";
 
-export default function Page02() {
-	usePageNavigation({ prev: "page01", next: "page03" });
+export default function KirtanPage() {
+	usePageNavigation({ prev: "prabhat-samgiita", next: "samgacchhadham-mantra" });
 
 	return <MeditationTimer durationMinutes={30} />;
 }

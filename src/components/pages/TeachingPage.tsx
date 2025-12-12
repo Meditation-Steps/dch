@@ -2,40 +2,36 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { usePageNavigation } from "../Layout/Navigation";
 
-export default function Page03() {
+export default function TeachingPage() {
 	const { t } = useTranslation("pages");
 
-	usePageNavigation({ prev: "page02", next: "page05" });
+	usePageNavigation({ prev: "guru-puja", next: "svadhyaya" });
 
 	return (
 		<div className="page-container">
 				<header className="page-header">
-					<img src="/dch/images/img02.png" alt="Header" />
-					<h1 className="page-title">{t("page03.title")}</h1>
+					<h1 className="page-title">{t("page08.title")}</h1>
 				</header>
 
 				<main className="page-content">
 					<p
 						style={{
-							textAlign: "center",
-							fontSize: "1.3em",
-							lineHeight: 2,
+							fontSize: "1.2em",
+							fontStyle: "italic",
 							margin: "2rem 0",
 						}}
 					>
-						<em style={{ whiteSpace: "pre-line" }}>
-							{t("page03.mantra")}
-						</em>
+						{t("page08.quote")}
 					</p>
 
-					<p>
-						<strong>{t("page03.translation")}</strong>
+					<p style={{ textAlign: "right", marginTop: "2rem" }}>
+						<strong>{t("page08.author")}</strong>
 					</p>
-					<p>{t("page03.meaning")}</p>
+
 					<img
 						src="/dch/images/img03.png"
 						alt="Footer"
-						style={{ marginTop: "2rem" }}
+						style={{ marginTop: "3rem" }}
 					/>
 				</main>
 			</div>

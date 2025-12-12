@@ -3,10 +3,10 @@ import { useTranslation } from "react-i18next";
 import { usePageNavigation } from "../Layout/Navigation";
 import MeditationTimer from "../Timer/MeditationTimer";
 
-export default function Page05() {
+export default function MeditationPage() {
 	const { t } = useTranslation("pages");
 
-	usePageNavigation({ prev: "page03", next: "page06" });
+	usePageNavigation({ prev: "samgacchhadham-mantra", next: "nityam-shuddham-mantra" });
 
 	return (
 		<MeditationTimer

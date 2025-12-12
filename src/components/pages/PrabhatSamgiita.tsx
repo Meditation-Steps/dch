@@ -2,10 +2,10 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { usePageNavigation } from "../Layout/Navigation";
 
-export default function Page01() {
+export default function PrabhatSamgiita() {
 	const { t } = useTranslation("pages");
 
-	usePageNavigation({ prev: "index", next: "page02" });
+	usePageNavigation({ prev: "index", next: "kirtan" });
 
 	return (
 		<div className="page-container">

@@ -44,15 +44,20 @@ export default function LanguagePicker() {
 	};
 
 	const handleLanguageChange = (newLang: "ru" | "en") => {
-		// Extract current page from path (e.g., /ru/page01 -> page01)
-		const pathParts = location.pathname.split("/");
-		const currentPage = pathParts[pathParts.length - 1] || "";
+		// Extract path parts (e.g., /ru/prabhat-samgiita -> ["", "ru", "prabhat-samgiita"])
+		const pathParts = location.pathname.split("/").filter(Boolean);
+
+		// First part is the language, rest is the page path
+		const currentLang = pathParts[0];
+		const pagePath = pathParts.slice(1).join("/");
 
 		// Change language in i18next
 		i18n.changeLanguage(newLang);
 
 		// Navigate to same page in new language
-		navigate(`/${newLang}/${currentPage}`, { replace: true });
+		// If there's a page path, include it; otherwise just go to the index
+		const newPath = pagePath ? `/${newLang}/${pagePath}` : `/${newLang}`;
+		navigate(newPath, { replace: true });
 	};
 
 	return (

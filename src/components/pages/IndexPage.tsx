@@ -6,7 +6,7 @@ export default function IndexPage() {
 	const { t } = useTranslation("pages");
 
 	// Set navigation config for this page
-	usePageNavigation({ next: "page01" });
+	usePageNavigation({ next: "prabhat-samgiita" });
 
 	return (
 		<div className="page-container">

@@ -2,16 +2,16 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { usePageNavigation } from "../Layout/Navigation";
 
-export default function Page06() {
+export default function GuruPuja() {
 	const { t } = useTranslation("pages");
 
-	usePageNavigation({ prev: "page05", next: "page07" });
+	usePageNavigation({ prev: "nityam-shuddham-mantra", next: "teaching" });
 
 	return (
 		<div className="page-container">
 				<header className="page-header">
-					<h1 className="page-title">{t("page06.title")}</h1>
-					<p className="page-subtitle">{t("page06.subtitle")}</p>
+					<h1 className="page-title">{t("page07.title")}</h1>
+					<p className="page-subtitle">{t("page07.subtitle")}</p>
 				</header>
 
 				<main className="page-content">
@@ -24,14 +24,14 @@ export default function Page06() {
 						}}
 					>
 						<em style={{ whiteSpace: "pre-line" }}>
-							{t("page06.mantra")}
+							{t("page07.mantra")}
 						</em>
 					</p>
 
 					<p>
-						<strong>{t("page06.translation")}</strong>
+						<strong>{t("page07.translation")}</strong>
 					</p>
-					<p>{t("page06.meaning")}</p>
+					<p>{t("page07.meaning")}</p>
 				</main>
 			</div>
 	);
