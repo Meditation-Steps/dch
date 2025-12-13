@@ -5,7 +5,9 @@
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("/dch/images/background.jpg");
+  /* background-image: url("/dch/images/background-main.jpg"); */
+  /* background-image: url("/dch/images/background.png"); */
+  background-image: url("/dch/images/background-blurred.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

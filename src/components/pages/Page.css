@@ -1,8 +1,9 @@
 /* Common page styles shared across content pages */
 :root {
-  --image-drop-shadow: drop-shadow(2px 0 white) drop-shadow(-2px 0 white) drop-shadow(0 2px white)
-    drop-shadow(0 -2px white) drop-shadow(2px 2px white) drop-shadow(-2px -2px white) drop-shadow(2px -2px white)
-    drop-shadow(-2px 2px white);
+  --image-drop-shadow: drop-shadow(2px 0 white) drop-shadow(-2px 0 white)
+    drop-shadow(0 2px white) drop-shadow(0 -2px white)
+    drop-shadow(2px 2px white) drop-shadow(-2px -2px white)
+    drop-shadow(2px -2px white) drop-shadow(-2px 2px white);
   --guru-border-radius: 15px;
 }
 
@@ -22,15 +23,15 @@
 .page-header {
   text-align: center;
   width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .page-title {
-  color: #ffffff;
+  color: var(--text-color);
 }
 
 .page-subtitle {
-  color: #ffffff;
+  color: var(--text-color);
 }
 
 /* Three column layout: pratik | content | guru */
@@ -39,7 +40,7 @@
   align-items: flex-start;
   width: 100%;
   max-width: 1400px;
-  gap: 2rem;
+  gap: 5rem;
 }
 
 .page-side-image {

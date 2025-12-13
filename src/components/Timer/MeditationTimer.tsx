@@ -4,6 +4,7 @@ import { playNotificationSound } from "../../utils/audio";
 import { formatTime } from "../../utils/formatTime";
 import TimerControls from "./TimerControls";
 import TimerOverlay from "./TimerOverlay";
+import "./Timer.css";
 
 interface MeditationTimerProps {
   durationMinutes?: number;

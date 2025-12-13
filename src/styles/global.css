@@ -21,10 +21,13 @@
 /* CSS Variables */
 :root {
   --primary-color: #ffffff;
+  /* --primary-color: black; */
   --text-color: #ffffff;
+  /* --text-color: black; */
   --background: transparent;
   --accent: #667eea;
-  --border-color: #e2e8f0;
+  /* --border-color: #e2e8f0; */
+  --border-color: black;
 }
 
 /* Base HTML and Body */
@@ -34,7 +37,8 @@ html {
 }
 
 body {
-  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    "Helvetica Neue", Arial, sans-serif;
   line-height: 1.6;
   color: var(--text-color);
   background: var(--background);
