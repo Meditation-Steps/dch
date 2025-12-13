@@ -40,10 +40,6 @@ export default function MeditationPage() {
 
   return (
     <div className="page-container" style={{ cursor: hideCursor ? "none" : "auto" }}>
-      <header className="page-header">
-        <h1 className="page-title font-title">{t("page05.title")}</h1>
-      </header>
-
       <div className="page-main">
         <div className="page-side-image">
           <img src="/dch/images/pratik.png" alt="Pratik" />
@@ -53,7 +49,16 @@ export default function MeditationPage() {
           <img src="/dch/images/guru_white.jpeg" alt="Guru" />
         </div>
       </div>
-
+      <h1
+        className="page-title font-title"
+        style={{
+          marginTop: "3rem",
+          marginBottom: "-2rem",
+          opacity: 0.5,
+        }}
+      >
+        {t("page05.title")}
+      </h1>
       <MeditationTimer durationMinutes={30} />
     </div>
   );

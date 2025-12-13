@@ -64,7 +64,7 @@ export default function MeditationTimer({ durationMinutes = 30 }: MeditationTime
           gap: "1rem",
         }}
       >
-        <h1 id="timer-display">{formatTime(remainingTime)}</h1>
+        <h1 className="timer-display">{formatTime(remainingTime)}</h1>
         <div
           style={{
             transition: "opacity 0.3s ease",
