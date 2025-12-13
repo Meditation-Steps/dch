@@ -1,4 +1,10 @@
-# dc
+# Dharmachakra
+
+![Deploy to GitHub Pages](https://github.com/elumixor/dch/actions/workflows/deploy.yml/badge.svg)
+
+**Live Site:** https://elumixor.github.io/dch/ru
+
+## Development
 
 To install dependencies:
 
