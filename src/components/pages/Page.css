@@ -1,13 +1,8 @@
 /* Common page styles shared across content pages */
 :root {
-  --image-drop-shadow: drop-shadow(2px 0 white)
-                       drop-shadow(-2px 0 white)
-                       drop-shadow(0 2px white)
-                       drop-shadow(0 -2px white)
-                       drop-shadow(2px 2px white)
-                       drop-shadow(-2px -2px white)
-                       drop-shadow(2px -2px white)
-                       drop-shadow(-2px 2px white);
+  --image-drop-shadow: drop-shadow(2px 0 white) drop-shadow(-2px 0 white) drop-shadow(0 2px white)
+    drop-shadow(0 -2px white) drop-shadow(2px 2px white) drop-shadow(-2px -2px white) drop-shadow(2px -2px white)
+    drop-shadow(-2px 2px white);
   --guru-border-radius: 15px;
 }
 

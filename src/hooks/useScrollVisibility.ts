@@ -1,47 +1,45 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export interface UseScrollVisibilityOptions {
-	threshold?: number;
+  threshold?: number;
 }
 
-export function useScrollVisibility({
-	threshold = 100,
-}: UseScrollVisibilityOptions = {}): boolean {
-	const [isVisible, setIsVisible] = useState(true);
+export function useScrollVisibility({ threshold = 100 }: UseScrollVisibilityOptions = {}): boolean {
+  const [isVisible, setIsVisible] = useState(true);
 
-	useEffect(() => {
-		let lastScrollY = window.scrollY;
-		let ticking = false;
+  useEffect(() => {
+    let lastScrollY = window.scrollY;
+    let ticking = false;
 
-		const updateVisibility = () => {
-			const currentScrollY = window.scrollY;
+    const updateVisibility = () => {
+      const currentScrollY = window.scrollY;
 
-			// Show when scrolling up, or when near the top
-			if (currentScrollY < lastScrollY || currentScrollY < threshold) {
-				setIsVisible(true);
-			} else {
-				setIsVisible(false);
-			}
+      // Show when scrolling up, or when near the top
+      if (currentScrollY < lastScrollY || currentScrollY < threshold) {
+        setIsVisible(true);
+      } else {
+        setIsVisible(false);
+      }
 
-			lastScrollY = currentScrollY;
-			ticking = false;
-		};
+      lastScrollY = currentScrollY;
+      ticking = false;
+    };
 
-		const handleScroll = () => {
-			if (!ticking) {
-				window.requestAnimationFrame(updateVisibility);
-				ticking = true;
-			}
-		};
+    const handleScroll = () => {
+      if (!ticking) {
+        window.requestAnimationFrame(updateVisibility);
+        ticking = true;
+      }
+    };
 
-		window.addEventListener("scroll", handleScroll, { passive: true });
+    window.addEventListener("scroll", handleScroll, { passive: true });
 
-		return () => {
-			window.removeEventListener("scroll", handleScroll);
-		};
-	}, [threshold]);
+    return () => {
+      window.removeEventListener("scroll", handleScroll);
+    };
+  }, [threshold]);
 
-	return isVisible;
+  return isVisible;
 }

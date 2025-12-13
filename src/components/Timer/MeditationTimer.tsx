@@ -1,9 +1,9 @@
 import { useCallback, useEffect, useState } from "react";
 import { useTimer } from "../../hooks/useTimer";
 import { playNotificationSound } from "../../utils/audio";
+import { formatTime } from "../../utils/formatTime";
 import TimerControls from "./TimerControls";
 import TimerOverlay from "./TimerOverlay";
-import { formatTime } from "../../utils/formatTime";
 
 interface MeditationTimerProps {
   durationMinutes?: number;

@@ -1,5 +1,5 @@
-import sharp from "sharp";
 import { join } from "node:path";
+import sharp from "sharp";
 
 const imagesDir = join(import.meta.dir, "public", "images");
 const inputPath = join(imagesDir, "stop.png");

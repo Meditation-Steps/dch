@@ -1,6 +1,6 @@
-import sharp from "sharp";
 import { readdir } from "node:fs/promises";
 import { join } from "node:path";
+import sharp from "sharp";
 
 const imagesToInvert = [
   "fullscreen.png",

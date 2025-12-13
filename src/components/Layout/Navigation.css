@@ -1,73 +1,75 @@
 /* Navigation component styles */
 .navigation {
-	position: fixed;
-	bottom: 2rem;
-	left: 50%;
-	transform: translateX(-50%);
-	display: flex;
-	gap: 1rem;
-	align-items: center;
-	background: rgba(0, 0, 0, 0.5);
-	padding: 0.75rem 1.5rem;
-	border-radius: 12px;
-	backdrop-filter: blur(10px);
-	transition: opacity 0.3s ease, transform 0.3s ease;
-	z-index: 900;
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
+  z-index: 900;
 }
 
 .navigation.hidden {
-	opacity: 0;
-	transform: translateX(-50%) translateY(20px);
-	pointer-events: none;
+  opacity: 0;
+  transform: translateX(-50%) translateY(20px);
+  pointer-events: none;
 }
 
 .nav-button {
-	padding: 0.5rem;
-	background: transparent;
-	border: none;
-	cursor: pointer;
-	transition: all 0.3s ease;
-	text-decoration: none;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+  padding: 0.5rem;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .nav-button:hover {
-	transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .nav-button img {
-	width: 32px;
-	height: 32px;
-	display: block;
+  width: 32px;
+  height: 32px;
+  display: block;
 }
 
 .nav-arrow-left {
-	transform: scaleX(-1);
+  transform: scaleX(-1);
 }
 
 .nav-home-icon {
-	width: 36px;
-	height: 36px;
+  width: 36px;
+  height: 36px;
 }
 
 .nav-button:focus,
 .nav-button:focus-visible {
-	outline: none;
+  outline: none;
 }
 
 /* Responsive design */
 @media (max-width: 768px) {
-	.navigation {
-		bottom: 1rem;
-		padding: 0.75rem 1rem;
-		flex-wrap: wrap;
-		justify-content: center;
-	}
+  .navigation {
+    bottom: 1rem;
+    padding: 0.75rem 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
-	.nav-button {
-		padding: 0.5rem 1rem;
-		font-size: 0.9rem;
-	}
+  .nav-button {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+  }
 }

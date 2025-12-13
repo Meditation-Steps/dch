@@ -1,5 +1,5 @@
-import Mantra from "../Mantra";
 import { usePageNavigation } from "../Layout/Navigation";
+import Mantra from "../Mantra";
 import "./Page.css";
 
 export default function SupremeCommand() {
