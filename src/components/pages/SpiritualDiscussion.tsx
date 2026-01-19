@@ -15,11 +15,11 @@ export default function SpiritualDiscussion() {
 
       <div className="page-main">
         <div className="page-side-image">
-          <img src="/dch/images/pratik.png" alt="Pratik" />
+          <img src="/images/pratik.png" alt="Pratik" />
         </div>
 
         <div className="page-side-image">
-          <img src="/dch/images/guru_white.jpeg" alt="Guru" />
+          <img src="/images/guru_white.jpeg" alt="Guru" />
         </div>
       </div>
     </div>

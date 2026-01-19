@@ -60,15 +60,15 @@ export default function Navigation() {
     <div id="navigation" className={`navigation ${isVisible ? "" : "hidden"}`}>
       {config.prev && (
         <Link to={`/${lang}/${config.prev}`} className="nav-button nav-prev">
-          <img src="/dch/images/right.png" alt="Previous" className="nav-arrow nav-arrow-left" />
+          <img src="/images/right.png" alt="Previous" className="nav-arrow nav-arrow-left" />
         </Link>
       )}
       <Link to={`/${lang}/${home}`} className="nav-button nav-home">
-        <img src="/dch/images/home.png" alt="Home" className="nav-home-icon" />
+        <img src="/images/home.png" alt="Home" className="nav-home-icon" />
       </Link>
       {config.next && (
         <Link to={`/${lang}/${config.next}`} className="nav-button nav-next">
-          <img src="/dch/images/right.png" alt="Next" className="nav-arrow nav-arrow-right" />
+          <img src="/images/right.png" alt="Next" className="nav-arrow nav-arrow-right" />
         </Link>
       )}
     </div>

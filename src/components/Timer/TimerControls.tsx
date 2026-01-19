@@ -33,7 +33,7 @@ export default function TimerControls({ isRunning, onStart, onStop, onReset }: T
             gap: "0.5rem",
           }}
         >
-          <img src="/dch/images/stop.png" alt="" style={{ width: "32px", height: "32px" }} />
+          <img src="/images/stop.png" alt="" style={{ width: "32px", height: "32px" }} />
           {t("stop")}
         </button>
       ) : (
@@ -48,7 +48,7 @@ export default function TimerControls({ isRunning, onStart, onStop, onReset }: T
             gap: "0.5rem",
           }}
         >
-          <img src="/dch/images/start.png" alt="" style={{ width: "32px", height: "32px" }} />
+          <img src="/images/start.png" alt="" style={{ width: "32px", height: "32px" }} />
           {t("start")}
         </button>
       )}
@@ -63,7 +63,7 @@ export default function TimerControls({ isRunning, onStart, onStop, onReset }: T
           gap: "0.5rem",
         }}
       >
-        <img src="/dch/images/reset.png" alt="" style={{ width: "32px", height: "32px" }} />
+        <img src="/images/reset.png" alt="" style={{ width: "32px", height: "32px" }} />
         {t("reset")}
       </button>
     </div>

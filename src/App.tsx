@@ -16,7 +16,7 @@ import Svadhyaya from "./components/pages/Svadhyaya";
 
 export default function App() {
   return (
-    <BrowserRouter basename="/dch">
+    <BrowserRouter basename="/">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path=":lang" element={<Layout />}>
