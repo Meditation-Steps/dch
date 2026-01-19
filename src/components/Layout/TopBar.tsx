@@ -80,7 +80,7 @@ export default function TopBar() {
           className={`icon-button ${!config.next ? "disabled" : ""}`}
           onClick={(e) => !config.next && e.preventDefault()}
         >
-          <img src="//images/right.png" alt="Next" className="nav-arrow-right" />
+          <img src="/images/right.png" alt="Next" className="nav-arrow-right" />
         </Link>
       </div>
 
