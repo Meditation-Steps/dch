@@ -63,7 +63,7 @@ export default function TopBar() {
       <div className="top-bar-left">
         <FullscreenToggle />
         <Link to={getRoutePath(home || "index")} className="icon-button top-bar-home">
-          <img src="/dch/images/home.png" alt="Home" />
+          <img src="//images/home.png" alt="Home" />
         </Link>
       </div>
 
@@ -73,14 +73,14 @@ export default function TopBar() {
           className={`icon-button ${!config.prev ? "disabled" : ""}`}
           onClick={(e) => !config.prev && e.preventDefault()}
         >
-          <img src="/dch/images/right.png" alt="Previous" className="nav-arrow-left" />
+          <img src="//images/right.png" alt="Previous" className="nav-arrow-left" />
         </Link>
         <Link
           to={getRoutePath(config.next)}
           className={`icon-button ${!config.next ? "disabled" : ""}`}
           onClick={(e) => !config.next && e.preventDefault()}
         >
-          <img src="/dch/images/right.png" alt="Next" className="nav-arrow-right" />
+          <img src="//images/right.png" alt="Next" className="nav-arrow-right" />
         </Link>
       </div>
 

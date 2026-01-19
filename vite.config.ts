@@ -14,7 +14,7 @@ export default defineConfig({
       },
     },
   ],
-  base: "/dch/",
+  base: "//",
   build: {
     outDir: "dist",
     emptyOutDir: true,

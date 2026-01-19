@@ -10,7 +10,7 @@ export function getAudioContext(): AudioContext {
 
 export function playNotificationSound(): void {
   try {
-    const audio = new Audio("/dch/audio/chime.mp3");
+    const audio = new Audio("//audio/chime.mp3");
     audio.play();
   } catch (err) {
     console.warn("Audio playback failed:", err);

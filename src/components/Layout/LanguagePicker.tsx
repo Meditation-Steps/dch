@@ -64,7 +64,7 @@ export default function LanguagePicker() {
   return (
     <div className="language-picker-wrapper" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
       <div id="language-picker" className="icon-button language-picker">
-        <img src="/dch/images/language.png" alt="Language" />
+        <img src="//images/language.png" alt="Language" />
       </div>
       {isVisible && (
         <div className={`language-overlay ${isFadingOut ? "fade-out" : ""}`}>

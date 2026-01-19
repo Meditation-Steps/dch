@@ -11,7 +11,7 @@ export default function FullscreenToggle() {
 
   return (
     <div id="fullscreen-toggle" className="icon-button" onClick={toggle}>
-      <img src="/dch/images/fullscreen.png" alt="fullscreen" />
+      <img src="//images/fullscreen.png" alt="fullscreen" />
     </div>
   );
 }
