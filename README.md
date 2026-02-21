@@ -2,7 +2,7 @@
 
 ![Deploy to GitHub Pages](https://github.com/Meditation-Steps/dch/actions/workflows/deploy.yml/badge.svg)
 
-**Live Site:** https://dharmachakra.online/
+**Live Site:** https://host.dharmachakra.online/
 
 ## Development
 
