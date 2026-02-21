@@ -16,8 +16,7 @@ const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ fileName }) => {
             setLoading(true);
             try {
                 // Dynamic import based on current language
-                // Note: For Vite, use: import(`../assets/locales/${i18n.language}/${fileName}.md?raw`)
-                const module = await import(`../assets/locales/${i18n.language}/${fileName}.md`);
+                const module = await import(`../locales/${i18n.language}/${fileName}.md?raw`);
                 setContent(module.default);
             } catch (error) {
                 console.error("Could not load markdown file", error);

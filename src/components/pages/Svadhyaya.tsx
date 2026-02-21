@@ -1,5 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { usePageNavigation } from "../Layout/Navigation";
+import MarkdownDisplay from "../MarkdownDisplay";
 import "./Page.css";
 
 export default function Svadhyaya() {
@@ -15,7 +16,7 @@ export default function Svadhyaya() {
 
       <div className="page-main">
         <main className="page-content">
-          {/* The markdown text belongs here */}
+          <MarkdownDisplay fileName="svadhyaya" />
         </main>
       </div>
     </div>
