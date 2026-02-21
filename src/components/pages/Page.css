@@ -88,9 +88,51 @@
   height: auto;
 }
 
+.svadhyaya-content h1 {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 2rem;
+  font-size: var(--font-size-title);
+  font-weight: var(--font-weight-title);
+  line-height: var(--line-height-title);
+  text-shadow: var(--text-shadow);
+}
+
+.svadhyaya-content blockquote {
+  margin: 2rem auto;
+  padding: 2rem 2.5rem;
+  max-width: 700px;
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-left: 4px solid rgba(255, 255, 255, 0.4);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+.svadhyaya-content blockquote p {
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
+
+.svadhyaya-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
   .page-title {
     font-size: 2rem;
+  }
+
+  .svadhyaya-content blockquote {
+    padding: 1.5rem 1.75rem;
+    margin: 1.5rem auto;
+  }
+
+  .svadhyaya-content blockquote::before {
+    font-size: 2rem;
+    top: 8px;
+    left: 10px;
   }
 }

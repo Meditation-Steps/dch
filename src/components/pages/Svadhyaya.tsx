@@ -15,7 +15,7 @@ export default function Svadhyaya() {
       </header>
 
       <div className="page-main">
-        <main className="page-content">
+        <main className="page-content svadhyaya-content">
           <MarkdownDisplay fileName="svadhyaya" />
         </main>
       </div>
