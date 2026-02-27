@@ -1,35 +1,43 @@
 # Ánanda Váńii (59, 60, 61)
 
-> **(59)**
+> **(62)**
 >
-> The more the honest people are firm on morality, the more the evil forces will be active against them.
+> Human beings will have to draw up all sorts of plans and programmes for the collective welfare of universal humanity.
 >
-> So all the moralists of the universe should remain organized and confront the evil forces unitedly.
+> This will accelerate the speed of their movement and enable them to easily remove the thorns from the path.
 >
-> *1 January 1983*
+> Obstacles are inevitable on the path of movement.
 >
-> Shrii Shrii Ánandamúrti
-
-> **(60)**
+> In fact, in all actions, auspicious and inauspicious, obstacles arise, but the innate force lying in each thought and every action, from the cosmic perspective, provides the necessary stamina for forward movement.
 >
-> Human society is one and indivisible.
+> Let us not forget this fact.
 >
-> Keeping this supreme truth ever fixed in oneʼs vision, one will have to think of promoting human welfare, love for humanity, human solidarity and universal fraternity, and move accordingly. Not for a single moment should one forget it nor even ignore it. Due to lack of intellect or mutual conflicts in the past, a vast number of creatures have become totally extinct from the surface of the earth.
->
-> Let human beings not meet the same dreadful consequence.
->
-> *Ánanda Púrńimá 1983*
+> *Ánanda Púrńimá 1984*
 >
 > Shrii Shrii Ánandamúrti
 
-> **(61)**
+> **(63)**
 >
-> Human history today has reached such a transitional phase that universal humanity, forgetting all spatial, temporal and personal differences, shall have to move, hand in hand, shoulder to shoulder towards the new dawn with rapid steps.
+> That very irresistible aspiration which leads human beings towards their goal with tremendous speed, also builds all sorts of social structures and generates newer social consciousness.
 >
-> Humanity must respond to this call. With the reddish glow of the dawn, the collective body, mind and soul will be radiant with joy.
+> With all sincerity in thought, words and deeds you have to build that aspiration, you have to awaken the cognitive faculty latent in the innermost golden cavity of every microcosmic mind.
 >
-> And that alone will be the real progress of universal humanity, the firm establishment of unified humanism.
+> For you have to work to bring about the well-being of every entity; no benevolent individual can neglect anyone.
 >
-> *1 January 1984*
+> *1 January 1985*
+>
+> Shrii Shrii Ánandamúrti
+
+> **(64)**
+>
+> All the entities of the universe are on the move. No one has come to rest, to lament unnecessarily.
+>
+> And in this movement lies the success of every entity, the colourful glamour of oneʼs existence.
+>
+> So move on individually, move on collectively.
+>
+> Let your sincere help illuminate those who have lagged behind on the path of movement.
+>
+> *Ánanda Púrńimá 1985*
 >
 > Shrii Shrii Ánandamúrti
