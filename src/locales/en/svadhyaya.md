@@ -1,43 +1,40 @@
 # Ánanda Váńii (62, 63, 64)
 
-> **(62)**
+> **(65)**
 >
-> Human beings will have to draw up all sorts of plans and programmes for the collective welfare of universal humanity.
+> The Supreme recognition of the meaning of existence lies in the vigorous march from imperfection to perfection.
 >
-> This will accelerate the speed of their movement and enable them to easily remove the thorns from the path.
+> This is as true in family, social and political life as it is in individual life. In individual life the movement from imperfection to perfection is easy to some extent due to the lack of diversity, but in family, social and political life it is comparatively difficult due to the extreme influence of staticity. 
+> On no account can one afford to stop moving in any sphere of existence, nor is it possible to do so.
 >
-> Obstacles are inevitable on the path of movement.
+> Through clashes and conflicts one must move towards the Supreme Desideratum. One who has lost the very spirit of forward march has lost the inner vitality of life and reduced oneself to an inert skeleton. You must not allow such a thing to happen.
 >
-> In fact, in all actions, auspicious and inauspicious, obstacles arise, but the innate force lying in each thought and every action, from the cosmic perspective, provides the necessary stamina for forward movement.
+> Keep moving onward, singing the song of the forward march.
 >
-> Let us not forget this fact.
->
-> *Ánanda Púrńimá 1984*
->
-> Shrii Shrii Ánandamúrti
-
-> **(63)**
->
-> That very irresistible aspiration which leads human beings towards their goal with tremendous speed, also builds all sorts of social structures and generates newer social consciousness.
->
-> With all sincerity in thought, words and deeds you have to build that aspiration, you have to awaken the cognitive faculty latent in the innermost golden cavity of every microcosmic mind.
->
-> For you have to work to bring about the well-being of every entity; no benevolent individual can neglect anyone.
->
-> *1 January 1985*
+> *1 January 1986*
 >
 > Shrii Shrii Ánandamúrti
 
-> **(64)**
+> **(66)**
 >
-> All the entities of the universe are on the move. No one has come to rest, to lament unnecessarily.
+> From place to place, from age to age, the elixir of immortality has been flowing forever. Through the medium of human structures this message of immortality is transmitted onwards.
 >
-> And in this movement lies the success of every entity, the colourful glamour of oneʼs existence.
+> So no human beings should ever be little or slight themselves, rather they should make rigorous efforts to become worthy mediums (media).
 >
-> So move on individually, move on collectively.
+> The wise and intelligent ideate less on their defects and demerits and more on the Supreme desideratum.
 >
-> Let your sincere help illuminate those who have lagged behind on the path of movement.
+> *Ánanda Púrńimá 1986*
 >
-> *Ánanda Púrńimá 1985*
+> Shrii Shrii Ánandamúrti
+
+> **(67)**
+>
+> The movement and the path, the means and the chariot are all inseparably linked. The path is not always easily accessible, smooth and littered with flower petals; nor is it always inaccessible, thorny and covered with stones. One must keep oneʼs eye fixed on the Goal. 
+>
+> This Goal provides inspiration, supplies the means for forward movement and makes the little lamps of life infinitely effulgent. Since eternity this very Goal has provided and is providing inspiration to all and will continue to do so in future;
+> and by revitalising the life-force as if with a flow of water, it will make the earth ever full of sweetness, and at the same time it will keep the triumphant flag of humanity flying on top of the golden mountain peak.>
+> So let oneʼs vision be fixed on the goal. There is no necessity to think of anything else.
+>
+> *1 January 1987*
 >
 > Shrii Shrii Ánandamúrti
