@@ -3,10 +3,10 @@ import { useTranslation } from 'react-i18next';
 import ReactMarkdown from 'react-markdown';
 
 interface MarkdownDisplayProps {
-    fileName: string; // e.g., 'about'
+    name: string;
 }
 
-const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ fileName }) => {
+const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ name: name }) => {
     const { i18n } = useTranslation();
     const [content, setContent] = useState<string>('');
     const [loading, setLoading] = useState<boolean>(true);
@@ -15,9 +15,23 @@ const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ fileName }) => {
         const loadMarkdown = async () => {
             setLoading(true);
             try {
-                // Dynamic import based on current language
-                const module = await import(`../locales/${i18n.language}/${fileName}.md?raw`);
-                setContent(module.default);
+                const url = `/${name}/${i18n.language}.md`;
+                const response = await fetch(url, {
+                    // Tells the browser to always revalidate with the server
+                    // rather than serving directly from cache
+                    cache: 'no-cache',
+                    headers: {
+                        'Cache-Control': 'no-cache',
+                        'Pragma': 'no-cache',
+                    },
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error: ${response.status}`);
+                }
+
+                const text = await response.text();
+                setContent(text);
             } catch (error) {
                 console.error("Could not load markdown file", error);
                 setContent("Content not available.");
@@ -27,7 +41,7 @@ const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ fileName }) => {
         };
 
         loadMarkdown();
-    }, [i18n.language, fileName]);
+    }, [i18n.language, name]);
 
     if (loading) return <div>Loading...</div>;
 

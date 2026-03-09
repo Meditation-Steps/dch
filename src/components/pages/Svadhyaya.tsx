@@ -19,7 +19,7 @@ export default function Svadhyaya() {
                     <img src="/images/pratik.png" alt="Pratik"/>
                 </div>
                 <main className="page-content svadhyaya-content">
-                    <MarkdownDisplay fileName="svadhyaya"/>
+                    <MarkdownDisplay name="svadhyaya"/>
                 </main>
                 <div className="page-side-image">
                     <img src="/images/guru_white.jpeg" alt="Guru"/>
