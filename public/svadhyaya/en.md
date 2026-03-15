@@ -1,39 +1,40 @@
 # Ánanda Váńii (65, 66, 67)
 
-> **(65)**
+> **(68)**
 >
-> The Supreme recognition of the meaning of existence lies in the vigorous march from imperfection to perfection.
+> The first and the final word of manifestation is mobility or dynamicity. Just as movement has no cessation, the path of movement also has no end.
 >
-> This is as true in family, social and political life as it is in individual life. In individual life the movement from imperfection to perfection is easy to some extent due to the lack of diversity, but in family, social and political life it is comparatively difficult due to the extreme influence of staticity. 
-> On no account can one afford to stop moving in any sphere of existence, nor is it possible to do so.
+> In this very movement lies the happy union between eternal ethics and the ageless supra-sensory realization – their centripetal affinity.
 >
-> Through clashes and conflicts one must move towards the Supreme Desideratum. One who has lost the very spirit of forward march has lost the inner vitality of life and reduced oneself to an inert skeleton. You must not allow such a thing to happen.
+> TIt is not enough for a person to merely understand and abide by the truth, rather it must be translated into reality in the practical lives of living beings. With the greatest fulfilment in buds, flowers and fruits, each and every life must be made effulgent.
 >
-> Keep moving onward, singing the song of the forward march.
+> Everyone should be made to realize that in the path of movement the Supreme fulfilment is the highest truth.
 >
-> *1 January 1986*
->
-> Shrii Shrii Ánandamúrti
-
-> **(66)**
->
-> From place to place, from age to age, the elixir of immortality has been flowing forever. Through the medium of human structures this message of immortality is transmitted onwards.
->
-> So no human beings should ever be little or slight themselves, rather they should make rigorous efforts to become worthy mediums (media).
->
-> The wise and intelligent ideate less on their defects and demerits and more on the Supreme desideratum.
->
-> *Ánanda Púrńimá 1986*
+> *Ánanda Púrńimá 1987*
 >
 > Shrii Shrii Ánandamúrti
 
-> **(67)**
+> **(69)**
 >
-> The movement and the path, the means and the chariot are all inseparably linked. The path is not always easily accessible, smooth and littered with flower petals; nor is it always inaccessible, thorny and covered with stones. One must keep oneʼs eye fixed on the Goal. 
+> The night of cimmerian darkness is bound to disappear seeing the advent of the dawn. That which is ever-true, which is eternal, is destined to be illuminated with the rise of the crimson dawn.
 >
-> This Goal provides inspiration, supplies the means for forward movement and makes the little lamps of life infinitely effulgent. Since eternity this very Goal has provided and is providing inspiration to all and will continue to do so in future;
-> and by revitalising the life-force as if with a flow of water, it will make the earth ever full of sweetness, and at the same time it will keep the triumphant flag of humanity flying on top of the golden mountain peak.>
-> So let oneʼs vision be fixed on the goal. There is no necessity to think of anything else.
+> Be ready for the grand ovation to that new crimson dawn in every house. Be prepared physically and mentally, armed with the force of righteousness, for the auspicious moment of the enthronement of the ever-new.
+> Be ready to respond to the supra-cosmic trumpet.
+>
+> *1 January 1988*
+>
+> Shrii Shrii Ánandamúrti
+
+> **(70)**
+>
+> In the crimson rays of the early dawn floats the trumpet sound from the distant blue void. 
+>
+> The call resounds: Arise, awake and waste no time in sleep. Tear off the fog of dogma and march on smashing under your feet the sky-kissing challenges of the rocky mountains.
+> Remember that victory does not come by itself.
+> Victory has to be invited and welcomed with sweat, the warmth of the blood and the fiery flames of hard labour. The task you have undertaken has to be brought to its consummation.
+>
+> When the mission is noble victory is sure to come. So do not sit inert wasting your valuable time. Be ready to give a fitting response to the clarion call of the cosmos.>
+> Be ready from this very moment.
 >
 > *1 January 1987*
 >
