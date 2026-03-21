@@ -1,41 +1,25 @@
-# Ánanda Váńii (65, 66, 67)
+# Ánanda Váńii (71, 72)
 
-> **(68)**
+> **(71)**
 >
-> The first and the final word of manifestation is mobility or dynamicity. Just as movement has no cessation, the path of movement also has no end.
+> The despondent humanity, in the monumental task of searching for veracity, sees the beacon leading to the path of effulgence.
 >
-> In this very movement lies the happy union between eternal ethics and the ageless supra-sensory realization – their centripetal affinity.
+> This immense task makes humanityʼs existence resplendent and illumines its path of movement with the blazing tenderness of humanism.
+> 
+> You are the blessed travellers on that effulgent path. Let the unique blending of your profound wisdom and intense urge for action rend asunder the mists of sinful deeds and smash to dust the jagged rocks of hypocrisy, and establish you in the realm of supreme fulfilment.
 >
-> TIt is not enough for a person to merely understand and abide by the truth, rather it must be translated into reality in the practical lives of living beings. With the greatest fulfilment in buds, flowers and fruits, each and every life must be made effulgent.
+> This is my wish for you on this auspicious New Yearʼs day.
 >
-> Everyone should be made to realize that in the path of movement the Supreme fulfilment is the highest truth.
->
-> *Ánanda Púrńimá 1987*
+> *1 January 1989*
 >
 > Shrii Shrii Ánandamúrti
 
-> **(69)**
+> **(72)**
 >
-> The night of cimmerian darkness is bound to disappear seeing the advent of the dawn. That which is ever-true, which is eternal, is destined to be illuminated with the rise of the crimson dawn.
+> We are proceeding from darkness towards effulgence, from imperfection along the golden steps to perfection. No obstacle on the way will be able to stop our advancement. Pushing aside and smashing all obstacles and impediments we will move along our destined path. Our ideological rationality is our valuable asset; the blissful glow of Macrocosmic effulgence is our goal and the inherent desire to bring well-being to all living creatures is our way.
 >
-> Be ready for the grand ovation to that new crimson dawn in every house. Be prepared physically and mentally, armed with the force of righteousness, for the auspicious moment of the enthronement of the ever-new.
-> Be ready to respond to the supra-cosmic trumpet.
+> Moving ahead is the very wont of life. Wasting valuable time in lethargy is nothing but inertness; hence we must keep moving. The chant of our forward movement will be our vocal expression, the very pulsation of our life.
 >
-> *1 January 1988*
->
-> Shrii Shrii Ánandamúrti
-
-> **(70)**
->
-> In the crimson rays of the early dawn floats the trumpet sound from the distant blue void. 
->
-> The call resounds: Arise, awake and waste no time in sleep. Tear off the fog of dogma and march on smashing under your feet the sky-kissing challenges of the rocky mountains.
-> Remember that victory does not come by itself.
-> Victory has to be invited and welcomed with sweat, the warmth of the blood and the fiery flames of hard labour. The task you have undertaken has to be brought to its consummation.
->
-> When the mission is noble victory is sure to come. So do not sit inert wasting your valuable time. Be ready to give a fitting response to the clarion call of the cosmos.>
-> Be ready from this very moment.
->
-> *1 January 1987*
+> *Ánanda Púrńimá 1989*
 >
 > Shrii Shrii Ánandamúrti
