@@ -1,5 +1,4 @@
 # Ánanda Váńii (71, 72)
-
 > **(71)**
 >
 > The despondent humanity, in the monumental task of searching for veracity, sees the beacon leading to the path of effulgence.
