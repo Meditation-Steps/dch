@@ -1,159 +1,48 @@
-# SHIVOPADESHA 1
-> **SHIVOPADESHA 1**
+# SHIVOPADESHA 2
+> *Átmajiṋánaḿ vidurjiṋánaḿ jiṋánányanyáni yánitu;*
 > 
-> *Ekaḿ jiṋánaḿ nityamádyantashúnyaḿ*
-> *Nányat kiḿcit varttate vastusatyam;*
-> *Tayorabhedoʼsmin indriyopádhiná vae*
-> *Jiṋánasyáyaḿ bhásate nányathaeva.*
-> *(One eternal knowledge without beginning or end – there is no other supreme truth.*
+> *Táni jiṋánávabhásáni sárasyanaeva bodhanát.*
+> 
+> *(Self-knowledge is the real knowledge – all other knowledge is a mere shadow of knowledge; and will not lead to realization of the truth.)*
+> 
+> “Self-knowledge is the real knowledge.” Now the question is – what is jiṋána (knowledge)?
 >
-> *And when the upádhi, or special power, of the indriyas, or organs, to receive or transmit inferential vibrations is suspended, and the external world and the internal world become fused into one, there remains only the knowledge of One Entity.)*
+> The word jiṋána in Sanskrit is derived from the root verb jiṋá plus the suffix anat́. The same root verb, jiṋá, was changed into keno in old Latin. The root verb “know” in modern English is the transformation of the old Latin keno. Because the letter “k” was in keno, the letter “k” has been retained in the spelling of “know” although it is not pronounced in modern English.
 > 
-> The Sáḿkhya philosophy is the oldest philosophy. But the very name “Sáḿkhya”(1) indicates that people had been acquainted with numbers for a long time. They were also aware that the number zero is not valueless. When zero is placed on the right side of a number, the numberʼs value increases ten times, but if it is placed on the left side of a number, the number neither increases nor decreases. After the significance of zero was realized, the decimal system was introduced.
+> Now what is the process of knowledge? It is said, “Subjectivization of objectivities is the faculty of knowing.” The external entity or entities which are being subjectivized are known as objectivity or objectivities.
 > 
-> In the psychological analysis of all the numbers, the number one has the greatest importance after zero. Normally the human mind is scattered in all directions. When the mind, with all its divergent flows, is directed consciously or unconsciously towards a particular object or idea, the goal of this directed movement is called “one” in psychological parlance. Judged in that light, “two” means two ones, “three” means three ones, etc. If, on the other hand, there is a quantity but there is no clear, specific number of ones, then we say “many”. If we analyse with deep concentration, we see that all entities ultimately lead to “One” in the process of synthetic movement. We also notice that, whether in the material sphere or in the intellectual sphere, all entities are particular temporal, spatial and personal forms of the Cognitive Faculty, but these forms of the Cognitive Faculty are created by Its own immanent powers.
+> Now the question arises, is it possible to take something of the mental world as objectivity and then subjectivize it? Yes, it is possible. To the existential “I” feeling, all the entities of the external world and the internal world also, all entities other than the existential “I” feeling itself, come within the scope of the faculty of knowing. But can the existential “I” know something higher than itself? It is indeed a very intricate question of psychology.
 > 
-> These immanent powers are not actually different from the Cognitive Faculty itself. If we say “mango”, it means all the component parts of the mango – the skin, the flesh, the juice, the seed, etc. Similarly, when we say “Cognitive Entity”, we mean Its witness-ship, Its role as fundamental cause of the universe, Its guńas, or three immanent powers, and the operation of these powers on Itself. All the manifestations of the universe are the varied expressions of this one and supreme Cognitive Faculty. That is why at the very outset it was said, Ekaḿ jiṋánam (“One eternal knowledge”).
+> The subtlest feeling of existence is the very first stage of the mental world, and *Citisattá* (the Cognitive Faculty) is the witnessing entity of the functioning of this first stage of the mind. We say, “I know that I exist.” Here the “I” of “I exist”, in the nominative case, is the first stage of the mind, and the witness-ship of “I exist” lies in the “I” of “I know.” Here we see clearly that the witness of the first stage of the mind is subtler than the first stage of the mind – in fact, it is the subtlest entity of all.
 > 
-> *Anityáshuciduhkhánátmasu nityashucisukhátmakhyátiravidyá.* The defective psychology by which people think temporary to be permanent, impure to be pure, sorrow to be happiness and non-spiritual to be spiritual, is called avidyá (ignorance). And what is anitya (impermanence)? – that which does not always exist, that which is assailed by the time factor. Nitya (eternal) is just the opposite – that which is not assailed by the time factor, that which undergoes neither sampramośa,(2) nor assailment, by the relative factors of time, place and person. As it was, it still is, and will ever remain.
+> Now the Cognitive Faculty may or may not function as the witnessing entity of the first stage of the mind. If it functions as the witnessing entity of the first stage of the mind, it is called *Sakala Citisattá* (Manifested Consciousness), and if it does not, it is *Niśkala Citisattá* (Unmanifested Consciousness).
 > 
-> In this world of mobility, that which comes, goes.
+> This Sakala Citisattá, being affected by its capacity of witness-ship, undergoes some kind of theoretical bondage, although it is not influenced by the three guńas. This influence by the faculty of witness-ship does not take place in the case of Niśkala Citisattá. But let me make it clear here that as there is no distortion in the faculty of knowing due to the influence of the guńas, the bondage is purely theoretical, nothing more than that. This Citisattá, or Cognitive Faculty, when functioning as witnessing entity in relation to the Macrocosm, is called Pratyagátmá – which is sakala when assailed by guńas, and niśkala when unassailed.
 >
-> *Ei din áse ei rát áse bhái*
-> *Yárá áse tárá sabái caliá yái*
-> *Maner mukure mrdurekhá rekhe yái.*
+> How can the Cognitive Faculty, the Supreme Knower of the mind, become the object of knowledge in the practical field? The fact is that when the first stage of mind, or the existential “I”, thinks of the subject “I” of “I know”, its existence becomes subtler than the subtlest, and then finally merges into the Cognitive Faculty –
 > 
-> *(The day comes, the night comes*
-> *Those who come all go away,*
-> *Leaving a soft imprint on the mirror of our minds.)*
+> *Mádhava Mádhava anukhan sumari Rádhiká Mádhava bhelii*
+> 
+> *(“Rádhiká (Rádhá) while constantly remembering Mádhava (Krśńá) became Mádhava Himself”).*
+> 
+> So we clearly understand that to know the Cognitive Faculty means to merge in It. It is like a salt doll trying to fathom the depth of the ocean, and in the process becoming one with the ocean itself; it could not return and tell others the story of how it felt while fathoming the ocean. This sort of becoming one with the ocean while trying to fathom it is termed “self-knowledge”. Theoretically, this self-knowledge is the real knowledge, and all other types of knowledge in the worldly sphere are not real knowledge, they are just the umbra and penumbra of knowledge. Generally, objective knowledge is called simply “knowing” but is not real knowledge. For knowledge of the objective world, the use of the root verb vid is more justifiable (than the use of the root verb jiṋá).
 >
-> The world is a panorama of endless movement, a vast assemblage of rainbow colours. If upon seeing it, people think that they have really attained something permanent, or become intoxicated with the colours, they will make a great mistake. People are attracted to minute portions of this earth, and embracing them, seek the path of self-gratification. But long before they attain satisfaction, those minute portions, that procession of colours, vanish into nothingness, leaving them in endless frustration and lamentation like blind, headless demons. This is not a decree of God; it is the law of the universe.
+> Vid is divided into different categories. There are mainly two divisions, parávidyá (subjective knowledge) and *aparávidyá* (objective knowledge). Parávidyá is that branch of knowledge which leads from analytical descent (from the infinite to the finite) to synthetic ascent (from the finite to the infinite). It helps human beings to reach the golden line of self-knowledge – the line which is the dividing line between objective knowledge and self-knowledge; the line beyond which is the sweet ideation of the all-pervasive Cognitive Faculty.
 > 
-> As avidyá or defective psychology teaches people to look upon the transitory as permanent, people sometimes knowingly, sometimes unknowingly, run after mirages and waste their valuable lives in great frustration.
+> This parávidyá is also divided into different stages: first, the comprehensive study necessary for the removal of any deficiency of knowledge; second, the process of rational analysis to derive benefit from the knowledge acquired and to control oneʼs own internal and external ideas; third, the consolidation of the spiritual ideology through *pariprashna* (spiritual inquiry); and fourth, self-surrender to the Cognitive Faculty.
 >
-> The Supreme Cognitive Principle, which is the only knowable entity for all other beings, is the sole permanent entity. To attain something permanent, one must not run after the petty pleasures of the world. Rather, knowing that eternal Entity, that permanent Entity, to be the only goal of life, one has to propel all oneʼs mental propensities towards Him. One must not waste oneʼs potentialities mistaking the transitory for the eternal.
-All created objects are finite; sitting in the midst of the multitude of finite things, and with the help of a finite unit mind, it is impossible, either in theory or in practice, to think of the Infinite. When the mind becomes intoxicated with the thought of the Infinite, then the finite mind transcends its own limits and loses itself in a state of endless peace. This is the highest attainment.
+> Aparávidyá (objective knowledge) is also divided into certain stages: first, the comprehensive study necessary for the removal of any deficiency in knowledge to promote the welfare of the world; second, the rational analysis of the knowledge acquired; and third, devising ways and means of applying the essence of the acquired objective knowledge for the welfare of the world.
+
+> In fact, parávidyá leads further – to the golden gate of mokśa (one of the four vargas, that is, káma, artha, dharma and mokśa[^1]) and says, “The last step you will have to take by means of átmajiṋánam. My jurisdiction is only up to this.”
 > 
-> Every finite entity has a beginning and an end, a starting-point and a destination, and there must also be a middle, halfway between the beginning and the end. Anything that has a beginning must have an end, so there must be a middle also. But something having no beginning cannot have any end; the beginningless cannot be joined to the endless, so naturally there cannot be any middle either.
+> Parávidyá also brings dharma, another varga, within human reach, but aparávidyá too has some role in this. People say, *Átmamokśarthaḿ jagaddhitáya ca* (“For self-realization and for the welfare of the universe”). This wise saying of realized souls brings about a sweet adjustment between the objective world and the subjective world. While trying to attain self-knowledge – the highest fulfilment of átmamokśárthaḿ – one will have to take the help of parávidyá; and to implement the second portion of this balanced ideology – jagaddhitáya ca – one will have to utilize both parávidyá and aparávidyá.
 > 
-> A point has position, but no magnitude.
-The starting-point has position; the terminating point has position; and the middle point also has position. But the starting-point of something which is unlimited has no position, and its terminating point also has no position; and as there is no position, there arises no question of magnitude.
+Those who think that they can concern themselves with parávidyá only, and finally, through its help, arrive at self-knowledge, are mistaken. Because while working exclusively for self-realization – átmamokśarthaḿ – the worms of selfishness will burrow deep into the human mind and finally sap all the sweeter and finer human sensibilities, all the generous expansiveness of the human mind, and fling the person into a quagmire of remorse. So the endeavour to attain spiritual realization exclusively cannot be considered an ideal way of life.
 > 
-> When the subject (that is, the knower) of something finite becomes the subject of infinitude, it becomes objectless, devoid of sound and other guńas (qualities). Even while sitting on the dusty earth, in the midst of the multitude of finite things, oneʼs mind may be imprinted with the colour of the Infinite – one may become possessed by the Infinite. But with only these feelings of the heart, full realization cannot be attained. So all the sages and realized persons have said in one voice, that there is no other path to supreme fulfilment than total self-surrender to Parama Puruśa. Thus it has been said about the Supreme Cognition, ádyantashúnyam (“without beginning or end”).
+> Again, if someone works exclusively for the welfare of the world – jagaddhitáya – one should realize that to render selfless service, an absolutely pure mind is required, with the expansiveness of the vast ocean and the serenity of the blue sky. Otherwise, while promoting the welfare of the world, one may develop a selfish desire in oneʼs mind in a weak moment, as a result of which one may bring harm to oneself as well as to the universe. So those who do not aim at self-realization cannot promote the welfare of the world either.
 > 
-> Anything that is created by the collective bondages of sentient, mutative and static principles is called vastu (matter), and that which is free from these triple bondages is called avastu (non-matter). When Parama Puruśa, the Supreme Cognition, is devoid of any object, He is non-matter; but when He is fully associated with an object, He is matter. But what sort of matter is that Cognition?
+> That is why Shiva propounded *átmamokśárthaḿ jagaddhitáya* ca. For self-realization, a pure science of spirituality is required, and for jagaddhitáya a happy blending between parávidyá and aparávidyá is necessary. In all mundane activity (for which the word káma is used – káma does not always mean the sexual urge), and for those endeavours which require mental force, the artha varga (psychic pabulum) is necessary, and for the attainment of artha, aparávidyá is indispensable.
 >
-> Whether an object is manifested or unmanifested, it must have qualities. When an object has qualities, but these qualities are not manifested and do not come within the scope of the perception of created beings, that state is called *sadvastu.* But when an object comes within the scope of perception or conception, it is called *padártha* (substance). Human intellect can actually rise far above the range of perception, and that is why many wise persons recognize the mind as an eleventh indriya(3) in addition to the five sensory organs and five motor organs. That is, the nature of intellect, in the process of increasing subtlization, is converting the unknown sadvastu into a known or half-known substance. Because of this process of conversion, Prakrti can flow in both directions (that is, either towards crudity or towards subtlety); and when substance itself is gradually transformed into the Supreme Cognition in the course of time, we say that the *Prákrtabháva* (flow of Prakrti) in that substance is in the process of gradual waning. It is for this reason that Prakrti is called *nityanivrttá* (constantly waning).
+> ***Shrii Shrii Ánandamúrti***
 > 
-> Vastusatyam(4) means satyavastu. The question is, are satyavastu and sadvastu the same? This expressed world of ours includes these three factors: sadvastu-in-fact, sadvastu-in-essence and sadvastu-in-appearance. Of these, sadvastu-in-essence is beyond the scope of perception and conception. Sadvastu-in-appearance is within the scope of perception. We can convert it into substance by our intellectual analysis and scientific research. And sadvastu-in-fact, although it comes within the scope of mind, does not come within the scope of perception; though we can experience it, we cannot convert it into substance. We experience it like sadvastu-in-essence, with the subtle feelings of our hearts, but we do not experience it in the objective world. If we try to bring it within the scope of the objective world, our own existence becomes converted into the noumenal world. The final result of attaining this sadvastu-in-essence is that oneʼs existence merges into its pratyak sattá (witnessing counterpart).(5) That which is non-matter, that is, devoid of any object, is satya (or satyavastu). And that which is matter – but matter-in-essence – is close to non-matter. The remaining entities of the universe are all matter(6) – some within the scope of conception, and some within the scope of conception and perception.
-> 
-> The sadvastu which undergoes no metamorphosis is the only reality.
-If we accept any reality other than this one, it will lead to the philosophy of infinite regress: there will be a crisis in human intellect.
-That is why it has been said, Nányat kiḿcit varttate vastusatyam (“Nothing exists other than vastusatyam”).
-> 
-Indra means one who has the predominant role in the field of action. In this sense, the king of the gods is called “Indra”. Tall shál trees are called indrataru. That which has a predominant role in activating oneʼs existence is called indriya. The indriyas internalize and externalize tanmátras(7) for a living entity: they assimilate and transmit the vibrational ideas that originate in the mind due to the influence of the binding forces. In the process of pratisaiṋcara (the introversive phase of creation) in the Cosmic Cycle the indriyas develop this associative function. This function of the indriyas is their upádhi (special role), and because of this upádhi of the indriyas, the one Supreme Cognition appears to be many to the many unit entities. It is said,
-> 
-> *Rúpátiita soi Prabhu*
-> *Lákha rúpa dekháol*
-> *Áb hám kekrá heri.*
-> 
-> *(That Supreme Formless* 
-> *OneAppears to be numerous –*
-> *Whom do I see now?)*
->
-> The innumerable structures which arise as a result of the countless vibrational undulations of the Supreme Entity, have on the one hand enlivened every step of creation with restless vitality and blissful sweetness, and on the other, given scope for the mistaken understanding of Him as many, not one. From this mistake arises all lifeʼs delicious sweetness, its spicy flavours – and also its piercing, bitter scorpion stings, its heart-rending moans of grief. Hence in One we see many, in all their perfections and imperfections, in all their sweetness and bitterness – all due to the special role of the indriyas – Tayorabhedoʼsmin indriyopádhiná vae.
-> 
-In the first stage of human life, when people notice the colourful processions of various tanmátras such as form, taste, smell, colour and touch, they immediately become attracted towards them. The entire universe appears to be a grand caravan of many colours; it seizes their senses and their minds rush after it, taking it to be the goal of life.
-In the first stage, this enchanting material panorama propels people from their inner world to external life. If at that stage, someone tells them to move towards the internal world, they become irritated and annoyed. They think, “Oh, Iʼm quite fine here!”
-Blending their colours with the colours of all, strolling on soft carpets of green grass, they think, “All these things are meant for me!”
-> 
-> *Kii kathá ut́he marmariyá bakultarupallave*
-> *Bhramar ut́he guiṋjariyá kii bhásá*
-> *Úrdhvamukhe súryamukhii smariche kon vallabhe*
-> *Nirjharańii bahiche kon pipásá.*
-> 
-> *(I wonder why these bakula branches are murmuring,*
-> *And what the black bees are humming;I wonder what lover the sunflower is remembering, with her faceupturned –*
-> *And what unquenchable thirst the flowing springs are feeling.)*
-> 
-> This material-oriented existence is the first stage of human life. At this stage, one wants to express only one thing with the whole of oneʼs being, and that is, “I exist, only I exist.”
-> 
-> The material world is the subtle blend of hard and soft:
-> 
-> *Nirjhar madhur gati rukśa giripathe chot́e*
-> *Kamala sugandhe bhará janame paunkila sare,*
-> *Goláp sundar ati sákańt́ak vrńt́e phot́e*
-> *Bhrame jiivapúrńa dhará jiivashúnya kakśá pare.*
-> 
-> *(The beautiful rose blossoms on a thorny stem,
-> The graceful stream courses down a rugged mountain,
-> The fragrant lotus is born in a muddy pond,
-> This earth of many creatures revolves on its barren axis.)*
-> 
-> Trials and tribulations compel people to ponder deeply; sorrows inspire them to analyse the law of cause and effect. Their wounded hearts want to be soothed with a healing balm from an entity greater than themselves. They realize then that there is an Entity greater than their little selves. Whatever might be their relation with that Entity, and whether that Entity is within their reach or not, they cherish the hope of gaining something from Him: they cry out, Tráhi mám páhi mám (“Save me, protect me”)!
-> 
-> Then they change their mental tune and say, “I exist, You also exist.”
-> 
-> When this relationship of hope and fulfilment fails to remove their internal dissatisfactions, when the greenness of the external world fails to moisten the desert of their minds, when the seeds of their desires do not sprout, then they realize that they will have to go still deeper inside – the key to the solution lies deeper within. They are still within locked doors and windows; in search of the key, they move inwards, but they are unable to find it. They do not feel that they are even near a guide – far less in close association. Concentrating all their mental anguish, they begin to shed tears in their minds, and beating their heads, say to the unknown Lord of their life:
-> 
-> *Brthá janma gouṋáyaluṋ*
-> *Hena Prabhu ná bhajalunKhoyáalun soi guńanidhi*
-> *Hámára karama manda*
-> *Ná milala eka bunda*
-> *Premasindhurasaka abadhi.*
->
-> *(I have spent my life in vain;*
-> 
-> *Such a great Lord I did not worship –*
-> *I lost the greatest jewel.*
-> *I am indeed an unfortunate creature;*
-> *I never enjoyed*
-> *Even a drop of nectar of the love of God.)*
-> 
-> Parama Puruśa is the Supreme Cognitive Faculty; nothing is outside Him. He too feels the inner agony of despairing people in the core of His heart, and shows them the soothing path of enlightenment. Then those despairing people cry out in the exuberance of their joy, “You exist, O Lord, I also exist!”
-> 
-> They continue to move into the inner world. The charming allurements of the external world no longer keep their minds in thrall. The dazzling splendour of form and colour, their glittering attraction, no longer evokes any response in the innermost recesses of their minds. The radiance of the colourful world and the effulgence of their inner life become one. Just as –
-> 
-> *Prasád bale yá chili bhái tái habi re nidenkále*
-> *Yeman jaler bimba jalei uday jal haye se misháy jale*
-> 
-> *(Prasád says, What you were in the beginning, You will become inthe end –*
-> *Just as bubbles rising from the water, into the water will mergeagain.)*
->
-> And further –
-> 
-> *Jal me kumbha hae*
-> *Kumbhame jal haeBáhár bhitar pánii*
-> *Phátá kumbha jal jalhi samáná –*
-> *lya tattva bujhae jiṋánii.*
-> 
-> *(The pot is in the water,*
-> *The water is in the pot,*
-> *Water inside and outside.*
-> *If the pot is broken, the waters become one –Only the wise understand this great idea.)*
-> 
-> The indriyasʼ externalization and internalization of tanmátras from the external world then appears to be a play of Máyá. The external world merges into the internal world, and ultimately there remains only one Entity – “You exist, only You exist.”
-> 
-> So it has been said, *Jiṋánasyáyaḿ bhásate nányathaeva (“Of all knowledge, only this remains”).*
->
-> *25 June 1982, Patna*
->
-> Shrii Shrii Ánandamúrti
-> 
-> 
-> **Footnotes**
-> 
-> (1) The word sáḿkhya means “that which is related to saḿkhyá, numerals”. –Trans.
-> 
-> (2) Loss. That which has undergone sampramośa is, in the authorʼs words, “not in a position to recreate (itself)”. –Trans.
-> 
-> (3) An indriya is a sensory or motor organ, together with its respective nerves, nerve fluid, and site in the brain. –Trans.
-> 
-> (4) Translated “supreme truth” in the shloka above. –Trans.
-> 
-> (5) Pratiipam means vipariitam (“opposite”), and aiṋcati means vijánáti (“knows”). Prati + ak (short forms of pratiipam and aiṋcati) = pratyak (“the witnessing entity opposite to an object”). (Thus the author paraphrases a well-known definition of pratyak.)
-> 
-> (6) Sadvastu (matter) -in-fact and sadvastu (matter) -in-appearance. –Trans.
-> 
-> (7) Tanmátra means “minutest fraction” of a given rudimental factor of matter; tanmátras are “inferences” radiating from objects which are received by the sense organs in the act of perception. –Trans.
-> 
+> [^1]: The four basic drives of human beings: physical, psycho-physical, psycho-spiritual and spiritual, respectively. –Trans.
