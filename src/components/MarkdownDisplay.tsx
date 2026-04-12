@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 
 interface MarkdownDisplayProps {
     name: string;
@@ -47,7 +48,7 @@ const MarkdownDisplay: React.FC<MarkdownDisplayProps> = ({ name: name }) => {
 
     return (
         <div className="prose">
-            <ReactMarkdown>{content}</ReactMarkdown>
+            <ReactMarkdown remarkPlugins={[remarkGfm]}>{content}</ReactMarkdown>
         </div>
     );
 };
